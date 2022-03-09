@@ -20,3 +20,10 @@ Here are some tools that I have developed to support you in your studies at Epit
   - [Sokoban](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/sokoban)
 - [Runner Map](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/runner_map) - Map builder for my_runner (also works for Sokoban).
 
+Some project are maybe deprecated, I'll try to keep it up to date, depending on my free time.
+
+I'm also really open to **pull requests**, together we can make all these tools better !
+
+### Other useful projects from my mates :
+
+- [Discord CI](https://github.com/vavarier/install-discord-action) - GitHub Actions for your projects since they were desactivated by the organization.
