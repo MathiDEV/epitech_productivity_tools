@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map editor for Epitech runner</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script
+        src="https://code.jquery.com/jquery-3.6.0.min.js"
+        integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+        crossorigin="anonymous"></script>
+</head>
+<body class="m-2">
+    <input type="number" id="size-x">
+    <input type="number" id="size-y">
+    <button type="button" class="btn btn-primary" id="generate">Generate grid</button>
+    <hr>
+    <div id="dest_grid">
+    </div>
+    <hr>
+    <input hidden type="file" id="config"></input>
+    <label style="cursor: pointer" class="text-primary mb-2" for="config"><u>Importer ma configuration</u></label> <a href="/config_runner.json">(Exemple)</a>
+    <div id="toolbox">
+    </div>
+    <hr>
+    <div class="text-center my-3">
+        <input hidden type="file" id="import"></input>
+        <label class="btn btn-secondary m-0" for="import">Importer une map</label>
+        <button type="button" class="btn btn-success" id="export">Exporter la map</button>
+    </div>
+    <p class="text-center" id="credits"><a href="https://www.linkedin.com/in/mathias-andr%C3%A9-a7b30721a/">Créé par <b>Mathias</b> ❤️</a></p>
+    <p class="text-center" id="credits">==== <a target="_blank" href="https://github.com/MathiDEV/runner_map/blob/main/README.md">FAQ</a> ====</p>
+</body>
+<style>
+*:not(pre) {
+    user-select: none;
+    -webkit-user-drag: none;
+}
+#dest_grid::-webkit-scrollbar {
+  display: none;
+}
+#dest_grid {
+  overflow: scroll;
+  max-width: 100%;
+  max-height: 70%;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  display: inline-grid;
+  border: 1px solid black;
+  grid-gap: 1px;
+  background: black;
+}
+
+#dest_grid > div {
+  background: white;
+  padding: 15px;
+  text-align: center;
+  background-position: center;
+  background-size: cover;
+}
+#toolbox > div {
+  cursor: pointer;
+  padding: 15px 0;
+  width: 53px;
+  margin: 5px;
+  text-align: center;
+  display: inline-block;
+  background-position: center;
+  background-size: cover;
+}
+.btn {
+    cursor: pointer;
+}
+</style>
+<script>
+    var sprites = {}
+    var mode = "horizontal"
+    var current_draw;
+    var clicking = false;
+    var keys = [];
+    var width = 0;
+    var height = 0;
+    var exported_map = "";
+    var pen_type = 0;
+    var imported_map;
+    var load = {y: 0, x: 0}
+
+    function load_map(x, y, max, mode = 0) {
+        let block_id;
+        y++;
+        if (y == height) {
+            y = 0;
+            x++
+        }
+        if (mode == 0)
+            block_id = imported_map[y][x];
+        else
+            block_id = imported_map[x][y];
+
+        while (!Object.keys(sprites).includes(block_id.toString()) && x != max) {
+            y++
+            if (y == height) {
+                y = 0;
+                x++
+            }
+            if (mode == 0)
+                block_id = imported_map[y][x];
+            else
+                block_id = imported_map[x][y];
+        }
+        if (x == max)
+            return
+        if (mode == 0)
+            set_block_id(y.toString(), x.toString(), block_id)
+        else
+            set_block_id((height - 1 - y).toString(), x.toString(), block_id)
+
+        return Promise.resolve()
+            .then(() => requestAnimationFrame(() => load_map(x, y, max, mode)));
+    }
+
+    $("#import").on("change", function () {
+        let fr = new FileReader();
+        fr.onload = function () {
+            keys = [];
+            imported_map = fr.result.split('\n').filter(e => e)
+            if (mode == "vertical") {
+                generate_grid(imported_map.length, imported_map[0].length)
+                for (i = 0; i < width / 5; i++)
+                    load_map(i * 5, -1, (i + 1) * 5, 1);
+                // for (j = 0; j < width; j++)
+                //     for (i = height - 1; i >= 0; i--) {
+                //         let block_id = imported_map[j][i];
+                //         set_block_id((height - 1 - i).toString(), j.toString(), block_id)
+                //     }
+            } else {
+                generate_grid(imported_map[0].length, imported_map.length)
+                for (i = 0; i < width / 5; i++)
+                    load_map(i * 5, -1, (i + 1) * 5);
+            }
+        }
+        fr.readAsText($(this).get(0).files[0])
+    })
+    $("#config").on("change", function () {
+        let fr = new FileReader();
+        fr.onload = function () {
+            let config = JSON.parse(fr.result);
+            sprites = config.sprites;
+            width = config.width;
+            height = config.height;
+            mode = config.mode;
+            generate_grid(width, height);
+            generate_colors();
+        }
+        fr.readAsText($(this).get(0).files[0])
+    })
+    $(document).on("keydown", function (e) {
+        let key = e.originalEvent.keyCode
+        if (!keys.includes(key))
+            keys.push(key)
+    })
+
+    $(document).on("keyup", function (e) {
+        let key = e.originalEvent.keyCode
+        keys = keys.filter(function (el) {
+            return (el != key)
+        })
+    })
+
+    $("#dest_grid").on("mouseleave mouseenter", function (e) {
+        keys = [];
+    })
+
+    function generate_colors () {
+        $("#toolbox").html("")
+        for (block in sprites) {
+            if (sprites[block].startsWith("#"))
+                $("#toolbox").append("<div block_id="+block+" style=\"background-color: "+sprites[block]+"\">"+block+"</div>")
+            else
+                $("#toolbox").append("<div block_id="+block+" style=\"background-image: url("+sprites[block]+")\">"+block+"</div>")
+        }
+        $("#toolbox > div").click(function() {
+            current_draw = $(this).attr("block_id");
+        })
+    }
+
+    function set_block_id(row, column, id)
+    {
+        let elem;
+        if (column.length > 0)
+            elem = $("#dest_grid > div[column="+column+"][row="+ row +"]")
+        else
+            elem = $("#dest_grid > div[row="+ row +"]")
+        elem.attr("block_id", id)
+        if (!Object.keys(sprites).includes(id)) {
+            elem.css("background-color", "white");
+            elem.css("background-image", "");
+        } else {
+            if (sprites[id].startsWith("#"))
+                elem.css("background-color", sprites[id]).css("background-image", "");
+            else
+                elem.css("background-image", "url("+sprites[id]+")").css("background-color", "white");
+        }
+    }
+
+    $("#export").click(function() {
+        exported_map = "";
+        if (mode == "vertical")
+            for (j = 0; j < width; j++) {
+                for (i = height - 1; i >= 0; i--) {
+                    let block_id = $("#dest_grid > div[column="+j+"][row="+i+"]").attr("block_id")
+                    exported_map += (block_id == undefined ? ' ' : block_id)
+                }
+                exported_map += '\n'
+            }
+        else
+            for (j = 0; j < height; j++) {
+                for (i = 0; i < width; i++) {
+                    let block_id = $("#dest_grid > div[column="+i+"][row="+j+"]").attr("block_id")
+                    exported_map += (block_id == undefined ? ' ' : block_id)
+                }
+                exported_map += '\n'
+            }
+        $("html").html("<pre>"+exported_map+"</pre>")
+    })
+
+    function cover_block(id1, id2)
+    {
+        for (j = 0; j < height; j++)
+            for (i = width - 1; i >= 0; i--) {
+                let block_id = $("#dest_grid > div[column="+i+"][row="+j+"]").attr("block_id");
+                let block_over = $("#dest_grid > div[column="+i+"][row="+(j - 1)+"]").attr("block_id");
+                if (block_id == id1 && block_over != id1) {
+                    set_block_id((j - 1).toString(), i.toString(), id2)
+                }
+            }
+    }
+
+    function exists(i, j) {
+        return(!(i < 0 || j < 0 || i > width - 1 || j > height - 1));
+    }
+
+    function bucket(i, j, id_prev, id_new)
+    {
+        i = parseInt(i)
+        j = parseInt(j)
+        let block_id = $("#dest_grid > div[column="+i+"][row="+j+"]").attr("block_id");
+        if (block_id != id_prev)
+            return;
+        set_block_id(j.toString(), i.toString(), id_new)
+        if (exists(i + 1, j))
+            bucket(i + 1, j, id_prev, id_new)
+        if (exists(i - 1, j))
+            bucket(i - 1, j, id_prev, id_new)
+        if (exists(i, j + 1))
+            bucket(i, j + 1, id_prev, id_new)
+        if (exists(i, j - 1))
+            bucket(i, j - 1, id_prev, id_new)
+    }
+
+    function generate_grid(nwidth, nheight)
+    {
+        $("#dest_grid div").remove();
+        width = nwidth;
+        height = nheight;
+        for (j = 0; j < height; j++)
+            for (i = 0; i < width; i++)
+                $("#dest_grid").append("<div column="+i+" row="+j+"></div>");
+        $("#dest_grid").css("grid-template-columns", "repeat("+width+", 30px)")
+        $("#dest_grid > div").mouseover(function() {
+            if (clicking)
+                if (pen_type == 1) {
+                    set_block_id($(this).attr("row"), $(this).attr("column"), current_draw)
+                } else {
+                    set_block_id($(this).attr("row"), $(this).attr("column"), null)
+                }
+        })
+        $("#dest_grid > div").mousedown(function() {
+            if ($(this).attr("block_id") != current_draw) {
+                pen_type = 1
+                if (keys.includes(17)) {
+                    bucket($(this).attr("column"), $(this).attr("row"), $(this).attr("block_id"), current_draw)
+                } else if (keys.includes(16)) {
+                    set_block_id($(this).attr("row"), "", current_draw)
+                } else if (keys.includes(18) && (under_block = $("div[column="+$(this).attr("column")+"][row="+(parseInt($(this).attr("row")) + 1)+"]").attr("block_id")) != undefined) {
+                    cover_block(under_block, current_draw)
+                }
+                set_block_id($(this).attr("row"), $(this).attr("column"), current_draw)
+            } else {
+                pen_type = 0
+                if (keys.includes(16)) {
+                    set_block_id($(this).attr("row"), "", null)
+                }
+                set_block_id($(this).attr("row"), $(this).attr("column"), null)
+            }
+        })
+    }
+    $(document).mousedown(function () {
+            clicking = true;
+        })
+    $(document).mouseup(function () {
+            clicking = false;
+        })
+    $("#generate").click(function() {
+        generate_grid(parseInt($("#size-x").val()), parseInt($("#size-y").val()))
+    })
+    if ($("#credits b").text()[0] != 'M' || $("#credits b").text()[6] != 's') {
+            alert("On laisse les crédits <3")
+            $("html").html("")
+    }
+</script>
+</html>

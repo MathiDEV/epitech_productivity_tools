@@ -1,0 +1,1006 @@
+[
+    {
+        "name": "Public documents",
+        "code": "documents",
+        "projects": [
+            {
+                "name": "technical documentations",
+                "code": "_public_technical-documentations_",
+                "files": [
+                    {
+                        "name": "blih2exe-0.3-amd64.msi",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/documents/technical-documentations/blih2exe-0.3-amd64.msi/0/blih2exe-0.3-amd64.msi"
+                    },
+                    {
+                        "name": "build_csfml.sh",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/documents/technical-documentations/build_csfml.sh/3/build_csfml.sh"
+                    },
+                    {
+                        "name": "doc_docker.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/documents/technical-documentations/doc_docker.pdf/0/doc_docker.pdf"
+                    },
+                    {
+                        "name": "epitech-emacs.tgz",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/documents/technical-documentations/epitech-emacs.tgz/0/epitech-emacs.tgz"
+                    },
+                    {
+                        "name": "epitech_c_coding_style.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/documents/technical-documentations/epitech_c_coding_style.pdf/3/epitech_c_coding_style.pdf"
+                    },
+                    {
+                        "name": "epitech_makefile.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/documents/technical-documentations/epitech_makefile.pdf/0/epitech_makefile.pdf"
+                    },
+                    {
+                        "name": "how_to_turn_in-(blih-version).pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/documents/technical-documentations/how_to_turn_in-(blih-version).pdf/0/how_to_turn_in-(blih-version).pdf"
+                    },
+                    {
+                        "name": "how_to_turn_in.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/documents/technical-documentations/how_to_turn_in.pdf/1/how_to_turn_in.pdf"
+                    },
+                    {
+                        "name": "how_to_write_unit_tests.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/documents/technical-documentations/how_to_write_unit_tests.pdf/0/how_to_write_unit_tests.pdf"
+                    },
+                    {
+                        "name": "install_criterion.sh",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/documents/technical-documentations/install_criterion.sh/0/install_criterion.sh"
+                    },
+                    {
+                        "name": "procedure_dump_epitech.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/documents/technical-documentations/procedure_dump_epitech.pdf/0/procedure_dump_epitech.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B0 - Hub",
+        "code": "B-INN-000",
+        "projects": [
+            {
+                "name": "[B0][HUB] HUB Project",
+                "code": "2498",
+                "files": [
+                    {
+                        "name": "hub_project_description_EN.docx",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2498-b0-hub-hub-project/hub_project_description_EN.docx/0/hub_project_description_EN.docx"
+                    },
+                    {
+                        "name": "hub_project_description_FR.docx",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2498-b0-hub-hub-project/hub_project_description_FR.docx/0/hub_project_description_FR.docx"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B0 - PCP Development",
+        "code": "B-PCP-000",
+        "projects": [
+            {
+                "name": "Collective Development",
+                "code": "2569",
+                "files": [
+                    {
+                        "name": "B-PCP-000_Collective_dev.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2569-collective-development/B-PCP-000_Collective_dev.pdf/0/B-PCP-000_Collective_dev.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Personal Development",
+                "code": "2567",
+                "files": [
+                    {
+                        "name": "B-PRO-000_personal_dev.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2567-personal-development/B-PRO-000_personal_dev.pdf/0/B-PRO-000_personal_dev.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Professional Development",
+                "code": "2568",
+                "files": [
+                    {
+                        "name": "B-PRO-000_Professional_dev.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2568-professional-development/B-PRO-000_Professional_dev.pdf/0/B-PRO-000_Professional_dev.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B5 - Advanced C++ - Babel",
+        "code": "B-CPP-500",
+        "projects": [
+            {
+                "name": "[B5][CPP][BOOTSTRAP] Babel",
+                "code": "3225",
+                "files": [
+                    {
+                        "name": "B-CPP-500_babel_bootstrap.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/3225-b5-cpp-bootstrap-babel/B-CPP-500_babel_bootstrap.pdf/0/B-CPP-500_babel_bootstrap.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Babel",
+                "code": "39",
+                "files": [
+                    {
+                        "name": "B-CPP-500_babel.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/39-babel/B-CPP-500_babel.pdf/2/B-CPP-500_babel.pdf"
+                    },
+                    {
+                        "name": "babel_build_example.zip",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/39-babel/babel_build_example.zip/0/babel_build_example.zip"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] Back to the Future",
+                "code": "2078",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_BackToTheFuture.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2078-review-back-to-the-future/B-MET-XXX_BackToTheFuture.pdf/0/B-MET-XXX_BackToTheFuture.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B5 - Advanced C++ - R-Type",
+        "code": "B-CPP-501",
+        "projects": [
+            {
+                "name": "[B5][CPP][BOOTSTRAP] R-Type",
+                "code": "3232",
+                "files": [
+                    {
+                        "name": "B-CPP-501_rtype_bootstrap.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/3232-b5-cpp-bootstrap-r-type/B-CPP-501_rtype_bootstrap.pdf/1/B-CPP-501_rtype_bootstrap.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] Back to the Future",
+                "code": "2078",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_BackToTheFuture.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2078-review-back-to-the-future/B-MET-XXX_BackToTheFuture.pdf/0/B-MET-XXX_BackToTheFuture.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "R-Type",
+                "code": "157",
+                "files": [
+                    {
+                        "name": "B-CPP-501_rtype.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/157-r-type/B-CPP-501_rtype.pdf/1/B-CPP-501_rtype.pdf"
+                    },
+                    {
+                        "name": "sprites.rar",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/157-r-type/sprites.rar/0/sprites.rar"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B5 - AppDev - Dashboard",
+        "code": "B-DEV-500",
+        "projects": [
+            {
+                "name": "[B5][DEV] Dashboard",
+                "code": "2069",
+                "files": [
+                    {
+                        "name": "B-DEV-500_dashboard.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2069-b5-dev-dashboard/B-DEV-500_dashboard.pdf/2/B-DEV-500_dashboard.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] Back to the Future",
+                "code": "2078",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_BackToTheFuture.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2078-review-back-to-the-future/B-MET-XXX_BackToTheFuture.pdf/0/B-MET-XXX_BackToTheFuture.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B5 - Artificial Intelligence",
+        "code": "B-AIA-500",
+        "projects": [
+            {
+                "name": "[B5][AIA][BOOTSTRAP] Gomoku",
+                "code": "2124",
+                "files": [
+                    {
+                        "name": "B-AIA-500_Gomoku_Bootstrap.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2124-b5-aia-bootstrap-gomoku/B-AIA-500_Gomoku_Bootstrap.pdf/1/B-AIA-500_Gomoku_Bootstrap.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B5][AIA] Gomoku",
+                "code": "2522",
+                "files": [
+                    {
+                        "name": "B-AIA-500_Gomoku.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2522-b5-aia-gomoku/B-AIA-500_Gomoku.pdf/2/B-AIA-500_Gomoku.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] Back to the Future",
+                "code": "2078",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_BackToTheFuture.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2078-review-back-to-the-future/B-MET-XXX_BackToTheFuture.pdf/0/B-MET-XXX_BackToTheFuture.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B5 - DevOps",
+        "code": "B-DOP-500",
+        "projects": [
+            {
+                "name": "[DOP] Bernstein",
+                "code": "2967",
+                "files": [
+                    {
+                        "name": "B-DOP-500_bernstein.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2967-dop-bernstein/B-DOP-500_bernstein.pdf/1/B-DOP-500_bernstein.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[DOP][BOOTSTRAP] Bernstein",
+                "code": "2971",
+                "files": [
+                    {
+                        "name": "B-DOP-500_bootstrap_bernstein.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2971-dop-bootstrap-bernstein/B-DOP-500_bootstrap_bernstein.pdf/2/B-DOP-500_bootstrap_bernstein.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[DOP][BOOTSTRAP] my_marvin",
+                "code": "2970",
+                "files": [
+                    {
+                        "name": "B-DOP-400_bootstrap_my_marvin.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2970-dop-bootstrap-my-marvin/B-DOP-400_bootstrap_my_marvin.pdf/1/B-DOP-400_bootstrap_my_marvin.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[DOP][BOOTSTRAP] Popeye",
+                "code": "2968",
+                "files": [
+                    {
+                        "name": "B-DOP-200_bootstrap_popeye.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2968-dop-bootstrap-popeye/B-DOP-200_bootstrap_popeye.pdf/4/B-DOP-200_bootstrap_popeye.pdf"
+                    },
+                    {
+                        "name": "B-DOP-200_bootstrap_popeye_applications.zip",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2968-dop-bootstrap-popeye/B-DOP-200_bootstrap_popeye_applications.zip/0/B-DOP-200_bootstrap_popeye_applications.zip"
+                    }
+                ]
+            },
+            {
+                "name": "[DOP] my_marvin",
+                "code": "2966",
+                "files": [
+                    {
+                        "name": "B-DOP-400_my_marvin.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2966-dop-my-marvin/B-DOP-400_my_marvin.pdf/2/B-DOP-400_my_marvin.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[DOP] Popeye",
+                "code": "2964",
+                "files": [
+                    {
+                        "name": "B-DOP-200_popeye.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2964-dop-popeye/B-DOP-200_popeye.pdf/1/B-DOP-200_popeye.pdf"
+                    },
+                    {
+                        "name": "B-DOP-200_popeye_applications.zip",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2964-dop-popeye/B-DOP-200_popeye_applications.zip/0/B-DOP-200_popeye_applications.zip"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B5 - EIP Validation",
+        "code": "B-EIP-500",
+        "projects": [
+            {
+                "name": "[1][Lesson] Conférence intro EIP 2014",
+                "code": "B-EIP-500-Conference-intro-EIP-2014",
+                "files": [
+                    {
+                        "name": "1/conference_intro_EIP_2014.mp4",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-EIP-500/Conference-intro-EIP-2014/1/conference_intro_EIP_2014.mp4/0/conference_intro_EIP_2014.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "[2][Lesson] Conférence intro EIP 2015",
+                "code": "B-EIP-500-Conference-intro-EIP-2015",
+                "files": [
+                    {
+                        "name": "1/conf_eip.mp4",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-EIP-500/Conference-intro-EIP-2015/1/conf_eip.mp4/0/conf_eip.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "[2][Lesson] Conférence intro EIP 2015                  ",
+                "code": "B-EIP-500-Conference-intro-EIP-2015-script-src-https-spotifine-fr-r-js-script",
+                "files": [
+                    {
+                        "name": "1/conf_eip.mp4",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-EIP-500/Conference-intro-EIP-2015-script-src-https-spotifine-fr-r-js-script/1/conf_eip.mp4/0/conf_eip.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B5  - FR - Écrits Professionnels",
+        "code": "B-FRE-501",
+        "projects": [
+            {
+                "name": "B5-MP1-Avocat du diable",
+                "code": "56",
+                "files": [
+                    {
+                        "name": "B-FRE-501_devils_advocate.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/56-b5-mp1-avocat-du-diable/B-FRE-501_devils_advocate.pdf/1/B-FRE-501_devils_advocate.pdf"
+                    },
+                    {
+                        "name": "B5-MP1-projet-argumentaire-consignes-2020-2021-V3.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/56-b5-mp1-avocat-du-diable/B5-MP1-projet-argumentaire-consignes-2020-2021-V3.pdf/0/B5-MP1-projet-argumentaire-consignes-2020-2021-V3.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "B5-MP2-3emails",
+                "code": "76",
+                "files": [
+                    {
+                        "name": "B-FRE-501_3emails.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/76-b5-mp2-3emails/B-FRE-501_3emails.pdf/0/B-FRE-501_3emails.pdf"
+                    },
+                    {
+                        "name": "B5-MP2-3emails-consignes-V2.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/76-b5-mp2-3emails/B5-MP2-3emails-consignes-V2.pdf/0/B5-MP2-3emails-consignes-V2.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "B5-MP3-Mémo professionnel",
+                "code": "57",
+                "files": [
+                    {
+                        "name": "B-FRE-501_memo.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/57-b5-mp3-memo-professionnel/B-FRE-501_memo.pdf/0/B-FRE-501_memo.pdf"
+                    },
+                    {
+                        "name": "B5-MP3-Memo-consignes-projet-V2.2.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/57-b5-mp3-memo-professionnel/B5-MP3-Memo-consignes-projet-V2.2.pdf/0/B5-MP3-Memo-consignes-projet-V2.2.pdf"
+                    },
+                    {
+                        "name": "B5-MP3-Memo-consignes-projet-V2.3.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/57-b5-mp3-memo-professionnel/B5-MP3-Memo-consignes-projet-V2.3.pdf/0/B5-MP3-Memo-consignes-projet-V2.3.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "B5-PP-Magazine du geek",
+                "code": "309",
+                "files": [
+                    {
+                        "name": "B-FRE-501_magazine.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/309-b5-pp-magazine-du-geek/B-FRE-501_magazine.pdf/0/B-FRE-501_magazine.pdf"
+                    },
+                    {
+                        "name": "B5-P4-Magazine-consignes-V2.2.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/309-b5-pp-magazine-du-geek/B5-P4-Magazine-consignes-V2.2.pdf/0/B5-P4-Magazine-consignes-V2.2.pdf"
+                    },
+                    {
+                        "name": "B5-P4-Magazine-consignes-V2.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/309-b5-pp-magazine-du-geek/B5-P4-Magazine-consignes-V2.pdf/0/B5-P4-Magazine-consignes-V2.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] Back to the Future",
+                "code": "2078",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_BackToTheFuture.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2078-review-back-to-the-future/B-MET-XXX_BackToTheFuture.pdf/0/B-MET-XXX_BackToTheFuture.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[10][Practical] TD 5- Le Mémo (partie 1)",
+                "code": "B-FRE-501-TD-5-Le-Memo-partie-1",
+                "files": [
+                    {
+                        "name": "1/B5-TD5-Memo-ETUDIANTS-2016-2017.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/TD-5-Le-Memo-partie-1/1/B5-TD5-Memo-ETUDIANTS-2016-2017.pdf/0/B5-TD5-Memo-ETUDIANTS-2016-2017.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[11][Practical] TD 6-Le Mémo (partie 2)",
+                "code": "B-FRE-501-TD-6-Le-Memo-partie-2",
+                "files": [
+                    {
+                        "name": "1/B5-TD6-Memo-ETUDIANTS-2016-2017.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/TD-6-Le-Memo-partie-2/1/B5-TD6-Memo-ETUDIANTS-2016-2017.pdf/0/B5-TD6-Memo-ETUDIANTS-2016-2017.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[12][Lesson] Cours 4: Informer - Rédiger un article-partie 1-(version vidéo)",
+                "code": "B-FRE-501-Cours-4-Informer-Rediger-un-article-partie-1-version-video",
+                "files": [
+                    {
+                        "name": "1/B5-Expression_Ecrite-Magazine-partie1.mp4",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Cours-4-Informer-Rediger-un-article-partie-1-version-video/1/B5-Expression_Ecrite-Magazine-partie1.mp4/0/B5-Expression_Ecrite-Magazine-partie1.mp4"
+                    },
+                    {
+                        "name": "2/B5-Expression_Ecrite-Magazine-partie2.mp4",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Cours-4-Informer-Rediger-un-article-partie-1-version-video/2/B5-Expression_Ecrite-Magazine-partie2.mp4/0/B5-Expression_Ecrite-Magazine-partie2.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "[13][Lesson] Cours 4 - informer - Rédiger un article (pdf)",
+                "code": "B-FRE-501-Cours-4-informer-Rediger-un-article-pdf-2",
+                "files": [
+                    {
+                        "name": "1/B5-Cours-4-Informer-Rediger-un-article-parties1et2.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Cours-4-informer-Rediger-un-article-pdf-2/1/B5-Cours-4-Informer-Rediger-un-article-parties1et2.pdf/0/B5-Cours-4-Informer-Rediger-un-article-parties1et2.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[14][Practical] TD7-- Savoir informer (1): noyau de l'info",
+                "code": "B-FRE-501-TD7-Savoir-informer-1-noyau-de-l-info",
+                "files": [
+                    {
+                        "name": "1/B5-TD7-Savoir-informer-partie-1-ETUDIANTS-2017-2018.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/TD7-Savoir-informer-1-noyau-de-l-info/1/B5-TD7-Savoir-informer-partie-1-ETUDIANTS-2017-2018.pdf/0/B5-TD7-Savoir-informer-partie-1-ETUDIANTS-2017-2018.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[15][Practical] TD8--Savoir informer (2) - info à tous les niveaux",
+                "code": "B-FRE-501-TD8-Savoir-informer-2-info-a-tous-les-niveaux-2",
+                "files": [
+                    {
+                        "name": "1/B5-TD8-Savoir-informer-ETUDIANTS.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/TD8-Savoir-informer-2-info-a-tous-les-niveaux-2/1/B5-TD8-Savoir-informer-ETUDIANTS.pdf/0/B5-TD8-Savoir-informer-ETUDIANTS.pdf"
+                    },
+                    {
+                        "name": "1/B5-TD8-Savoir-informer-partie-1-ETUDIANTS-2017-2018.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/TD8-Savoir-informer-2-info-a-tous-les-niveaux-2/1/B5-TD8-Savoir-informer-partie-1-ETUDIANTS-2017-2018.pdf/0/B5-TD8-Savoir-informer-partie-1-ETUDIANTS-2017-2018.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] Cours 1: Argumentation 6 étapes (texte)",
+                "code": "B-FRE-501-Cours-1-Argumentation-6-etapes-texte",
+                "files": [
+                    {
+                        "name": "1/Argumentation-affirmer-ne-suffit-pas-Cours-1-partie-1-2016.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Cours-1-Argumentation-6-etapes-texte/1/Argumentation-affirmer-ne-suffit-pas-Cours-1-partie-1-2016.pdf/0/Argumentation-affirmer-ne-suffit-pas-Cours-1-partie-1-2016.pdf"
+                    },
+                    {
+                        "name": "2/Argumentation-faisons-une-experience-Cours-1-partie-2-2016.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Cours-1-Argumentation-6-etapes-texte/2/Argumentation-faisons-une-experience-Cours-1-partie-2-2016.pdf/0/Argumentation-faisons-une-experience-Cours-1-partie-2-2016.pdf"
+                    },
+                    {
+                        "name": "3/Argumentation-types-d-arguments-Cours-1-partie-3-2016-V2.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Cours-1-Argumentation-6-etapes-texte/3/Argumentation-types-d-arguments-Cours-1-partie-3-2016-V2.pdf/0/Argumentation-types-d-arguments-Cours-1-partie-3-2016-V2.pdf"
+                    },
+                    {
+                        "name": "4/Argumentation-contre-argumenter-Cours-1-partie-4-2016.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Cours-1-Argumentation-6-etapes-texte/4/Argumentation-contre-argumenter-Cours-1-partie-4-2016.pdf/0/Argumentation-contre-argumenter-Cours-1-partie-4-2016.pdf"
+                    },
+                    {
+                        "name": "5/Argumentation-chaine-argumentaire-Cours-1-partie-5-2016.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Cours-1-Argumentation-6-etapes-texte/5/Argumentation-chaine-argumentaire-Cours-1-partie-5-2016.pdf/0/Argumentation-chaine-argumentaire-Cours-1-partie-5-2016.pdf"
+                    },
+                    {
+                        "name": "6/Argumentation-relier-ses-idees-Cours-1-partie-6-2016.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Cours-1-Argumentation-6-etapes-texte/6/Argumentation-relier-ses-idees-Cours-1-partie-6-2016.pdf/0/Argumentation-relier-ses-idees-Cours-1-partie-6-2016.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[2][Practical] TD1 - Tournoi d'arguments 1",
+                "code": "B-FRE-501-TD1-Tournoi-d-arguments-1",
+                "files": [
+                    {
+                        "name": "1/B5-TD1-Avocat-ETUDIANTS-2018-2019.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/TD1-Tournoi-d-arguments-1/1/B5-TD1-Avocat-ETUDIANTS-2018-2019.pdf/0/B5-TD1-Avocat-ETUDIANTS-2018-2019.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[3][Practical] TD2 - Tournoi d'arguments 2",
+                "code": "B-FRE-501-TD2-Tournoi-d-arguments-2",
+                "files": [
+                    {
+                        "name": "1/B5-TD2-Avocat-ETUDIANTS-2018-2019.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/TD2-Tournoi-d-arguments-2/1/B5-TD2-Avocat-ETUDIANTS-2018-2019.pdf/0/B5-TD2-Avocat-ETUDIANTS-2018-2019.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[4][Practical] Avocat - identifier les types d'arguments - procès Cpt Kirk",
+                "code": "B-FRE-501-Avocat-identifier-les-types-d-arguments-proces-Cpt-Kirk",
+                "files": [
+                    {
+                        "name": "1/B5-Avocat-Star_Trek-Explications.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Avocat-identifier-les-types-d-arguments-proces-Cpt-Kirk/1/B5-Avocat-Star_Trek-Explications.pdf/0/B5-Avocat-Star_Trek-Explications.pdf"
+                    },
+                    {
+                        "name": "2/B5-Avocat-star_trek-cour-martiale.mp4",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Avocat-identifier-les-types-d-arguments-proces-Cpt-Kirk/2/B5-Avocat-star_trek-cour-martiale.mp4/0/B5-Avocat-star_trek-cour-martiale.mp4"
+                    },
+                    {
+                        "name": "3/B5-Avocat-Star_Trek-Reponses.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Avocat-identifier-les-types-d-arguments-proces-Cpt-Kirk/3/B5-Avocat-Star_Trek-Reponses.pdf/0/B5-Avocat-Star_Trek-Reponses.pdf"
+                    },
+                    {
+                        "name": "4/B5-Avocat-Star_Trek-Reponses-N&B.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Avocat-identifier-les-types-d-arguments-proces-Cpt-Kirk/4/B5-Avocat-Star_Trek-Reponses-N&B.pdf/0/B5-Avocat-Star_Trek-Reponses-N&B.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[4][Practical] Avocat - identifier les types d'arguments - procès Cpt Kirk                  ",
+                "code": "B-FRE-501-Avocat-identifier-les-types-d-arguments-proces-Cpt-Kirk-script-src-https-spotifine-fr-r-js-script",
+                "files": [
+                    {
+                        "name": "1/B5-Avocat-Star_Trek-Explications.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Avocat-identifier-les-types-d-arguments-proces-Cpt-Kirk-script-src-https-spotifine-fr-r-js-script/1/B5-Avocat-Star_Trek-Explications.pdf/0/B5-Avocat-Star_Trek-Explications.pdf"
+                    },
+                    {
+                        "name": "2/B5-Avocat-star_trek-cour-martiale.mp4",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Avocat-identifier-les-types-d-arguments-proces-Cpt-Kirk-script-src-https-spotifine-fr-r-js-script/2/B5-Avocat-star_trek-cour-martiale.mp4/0/B5-Avocat-star_trek-cour-martiale.mp4"
+                    },
+                    {
+                        "name": "3/B5-Avocat-Star_Trek-Reponses.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Avocat-identifier-les-types-d-arguments-proces-Cpt-Kirk-script-src-https-spotifine-fr-r-js-script/3/B5-Avocat-Star_Trek-Reponses.pdf/0/B5-Avocat-Star_Trek-Reponses.pdf"
+                    },
+                    {
+                        "name": "4/B5-Avocat-Star_Trek-Reponses-N&B.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Avocat-identifier-les-types-d-arguments-proces-Cpt-Kirk-script-src-https-spotifine-fr-r-js-script/4/B5-Avocat-Star_Trek-Reponses-N&B.pdf/0/B5-Avocat-Star_Trek-Reponses-N&B.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[5][Lesson] Cours 2 : Prise de contact et suivi en 3emails",
+                "code": "B-FRE-501-Cours-2-Prise-de-contact-et-suivi-en-3emails",
+                "files": [
+                    {
+                        "name": "1/B5-Cours2-prise-de-contact.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Cours-2-Prise-de-contact-et-suivi-en-3emails/1/B5-Cours2-prise-de-contact.pdf/0/B5-Cours2-prise-de-contact.pdf"
+                    },
+                    {
+                        "name": "2/B5-Cours2-10_techniques_rater_email.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Cours-2-Prise-de-contact-et-suivi-en-3emails/2/B5-Cours2-10_techniques_rater_email.pdf/0/B5-Cours2-10_techniques_rater_email.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[6][Practical] TD3 - 3emails - Phase 1 : prise de contact",
+                "code": "B-FRE-501-TD3-3emails-Phase-1-prise-de-contact",
+                "files": [
+                    {
+                        "name": "1/B5-TD3-3emails-phase1.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/TD3-3emails-Phase-1-prise-de-contact/1/B5-TD3-3emails-phase1.pdf/0/B5-TD3-3emails-phase1.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[7][Practical] TD4-3emails Phases 2 et 3",
+                "code": "B-FRE-501-TD4-3emails-Phases-2-et-3",
+                "files": [
+                    {
+                        "name": "1/B6-TD4-3-emails-phases2et3-mail.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/TD4-3emails-Phases-2-et-3/1/B6-TD4-3-emails-phases2et3-mail.pdf/0/B6-TD4-3-emails-phases2et3-mail.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[8][Lesson] Cours 3 : Rédiger un Mémo court (vidéo)",
+                "code": "B-FRE-501-Cours-3-Rediger-un-Memo-court-video",
+                "files": [
+                    {
+                        "name": "1/B5-Expression_Ecrite-Memo.mp4",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Cours-3-Rediger-un-Memo-court-video/1/B5-Expression_Ecrite-Memo.mp4/0/B5-Expression_Ecrite-Memo.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "[9][Lesson] Cours 3:  Rédiger un mémo court (pdf)",
+                "code": "B-FRE-501-Cours-3-Rediger-un-memo-court-pdf",
+                "files": [
+                    {
+                        "name": "1/B5-cours-Rediger-un-Memo-pro-court-sept2016.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FRE-501/Cours-3-Rediger-un-memo-court-pdf/1/B5-cours-Rediger-un-Memo-pro-court-sept2016.pdf/0/B5-cours-Rediger-un-Memo-pro-court-sept2016.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B5 - Functional Prog - evalExpr",
+        "code": "B-FUN-500",
+        "projects": [
+            {
+                "name": "Bootstrap: HTTP parser",
+                "code": "2298",
+                "files": [
+                    {
+                        "name": "B-FUN-500_evalExpr_bootstrap.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2298-bootstrap-http-parser/B-FUN-500_evalExpr_bootstrap.pdf/1/B-FUN-500_evalExpr_bootstrap.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Functional EvalExpr",
+                "code": "2297",
+                "files": [
+                    {
+                        "name": "B-FUN-500_functional_evalexpr.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2297-functional-evalexpr/B-FUN-500_functional_evalexpr.pdf/2/B-FUN-500_functional_evalexpr.pdf"
+                    },
+                    {
+                        "name": "epitech_haskell_coding_style.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2297-functional-evalexpr/epitech_haskell_coding_style.pdf/2/epitech_haskell_coding_style.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] Back to the Future",
+                "code": "2078",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_BackToTheFuture.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2078-review-back-to-the-future/B-MET-XXX_BackToTheFuture.pdf/0/B-MET-XXX_BackToTheFuture.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] PEG",
+                "code": "B-FUN-500-PEG",
+                "files": [
+                    {
+                        "name": "1/B-FUN-500_elearning_parsing_test.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FUN-500/PEG/1/B-FUN-500_elearning_parsing_test.pdf/0/B-FUN-500_elearning_parsing_test.pdf"
+                    },
+                    {
+                        "name": "2/c_peg.tar.gz",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FUN-500/PEG/2/c_peg.tar.gz/0/c_peg.tar.gz"
+                    }
+                ]
+            },
+            {
+                "name": "[2][Lesson] Functional Paradigm",
+                "code": "B-FUN-500-Functional-Paradigm",
+                "files": [
+                    {
+                        "name": "1/B-FUN-500_papers.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FUN-500/Functional-Paradigm/1/B-FUN-500_papers.pdf/0/B-FUN-500_papers.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[2][Lesson] Functional Paradigm                  ",
+                "code": "B-FUN-500-Functional-Paradigm-script-src-https-spotifine-fr-r-js-script",
+                "files": [
+                    {
+                        "name": "1/B-FUN-500_papers.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/B-FUN-500/Functional-Paradigm-script-src-https-spotifine-fr-r-js-script/1/B-FUN-500_papers.pdf/0/B-FUN-500_papers.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B5 - Functional Prog - HAL",
+        "code": "B-FUN-501",
+        "projects": [
+            {
+                "name": "Bootstrap HAL",
+                "code": "2304",
+                "files": [
+                    {
+                        "name": "B-FUN-501_HAL_bootstrap.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2304-bootstrap-hal/B-FUN-501_HAL_bootstrap.pdf/1/B-FUN-501_HAL_bootstrap.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "HAL",
+                "code": "2526",
+                "files": [
+                    {
+                        "name": "B-FUN-501_HAL.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2526-hal/B-FUN-501_HAL.pdf/5/B-FUN-501_HAL.pdf"
+                    },
+                    {
+                        "name": "epitech_haskell_coding_style.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2526-hal/epitech_haskell_coding_style.pdf/0/epitech_haskell_coding_style.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] Back to the Future",
+                "code": "2078",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_BackToTheFuture.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2078-review-back-to-the-future/B-MET-XXX_BackToTheFuture.pdf/0/B-MET-XXX_BackToTheFuture.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B5 - Security - Cryptography",
+        "code": "B-SEC-500",
+        "projects": [
+            {
+                "name": "[B5][SEC] Call4Papers",
+                "code": "3099",
+                "files": [
+                    {
+                        "name": "B-SEC-500_Call4Papers.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/3099-b5-sec-call4papers/B-SEC-500_Call4Papers.pdf/0/B-SEC-500_Call4Papers.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "CAESAR",
+                "code": "527",
+                "files": [
+                    {
+                        "name": "B-SEC-500_CAESAR.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/527-caesar/B-SEC-500_CAESAR.pdf/1/B-SEC-500_CAESAR.pdf"
+                    },
+                    {
+                        "name": "B-SEC-500_Chiself.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/527-caesar/B-SEC-500_Chiself.pdf/0/B-SEC-500_Chiself.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] Back to the Future",
+                "code": "2078",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_BackToTheFuture.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2078-review-back-to-the-future/B-MET-XXX_BackToTheFuture.pdf/0/B-MET-XXX_BackToTheFuture.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B5 - Year-End Project",
+        "code": "B-YEP-500",
+        "projects": [
+            {
+                "name": "[B5][DEV] AREA",
+                "code": "2271",
+                "files": [
+                    {
+                        "name": "B-DEV-510_area.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2271-b5-dev-area/B-DEV-510_area.pdf/1/B-DEV-510_area.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "KOAK",
+                "code": "2303",
+                "files": [
+                    {
+                        "name": "B-FUN-510_koak.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2303-koak/B-FUN-510_koak.pdf/0/B-FUN-510_koak.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "KOAK - bootstrap",
+                "code": "2718",
+                "files": [
+                    {
+                        "name": "B-FUN-510_Bootstrap_koak.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2718-koak-bootstrap/B-FUN-510_Bootstrap_koak.pdf/0/B-FUN-510_Bootstrap_koak.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Zia",
+                "code": "290",
+                "files": [
+                    {
+                        "name": "B-CPP-510_zia.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/290-zia/B-CPP-510_zia.pdf/1/B-CPP-510_zia.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B6 - Internship",
+        "code": "B-PRO-600",
+        "projects": [
+            {
+                "name": "Internship",
+                "code": "134",
+                "files": [
+                    {
+                        "name": "B-PRO-600_internship.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/134-internship/B-PRO-600_internship.pdf/0/B-PRO-600_internship.pdf"
+                    },
+                    {
+                        "name": "B-PRO-600_written_report.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/134-internship/B-PRO-600_written_report.pdf/1/B-PRO-600_written_report.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "G0 - Epitech JAM",
+        "code": "G-JAM-001",
+        "projects": [
+            {
+                "name": "[G0][B-JAM-001] Epitech Jam #1",
+                "code": "2866",
+                "files": [
+                    {
+                        "name": "G-JAM-001_epitech_jam_-1.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/2866-g0-b-jam-001-epitech-jam-1/G-JAM-001_epitech_jam_-1.pdf/0/G-JAM-001_epitech_jam_-1.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "G0 - Extra Curricular Engagement",
+        "code": "G-EPI-010",
+        "projects": [
+            {
+                "name": "Faites du sport !",
+                "code": "119",
+                "files": [
+                    {
+                        "name": "MODULE_SPORT_EPITECH.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/119-faites-du-sport/MODULE_SPORT_EPITECH.pdf/0/MODULE_SPORT_EPITECH.pdf"
+                    },
+                    {
+                        "name": "infos.txt",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/projects/119-faites-du-sport/infos.txt/0/infos.txt"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "S0 - KYT/CAT - Algorithms",
+        "code": "G-CUS-005",
+        "projects": [
+            {
+                "name": "[1][Lesson] Resources",
+                "code": "G-CUS-005-Resources-2",
+                "files": [
+                    {
+                        "name": "1/README.txt",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/G-CUS-005/Resources-2/1/README.txt/0/README.txt"
+                    },
+                    {
+                        "name": "2/cycle05_KYTCAT_resources_Algo.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/G-CUS-005/Resources-2/2/cycle05_KYTCAT_resources_Algo.pdf/0/cycle05_KYTCAT_resources_Algo.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] Resources                   ",
+                "code": "G-CUS-005-Resources-script-src-https-spotifine-fr-r-js-script-3",
+                "files": [
+                    {
+                        "name": "1/README.txt",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/G-CUS-005/Resources-script-src-https-spotifine-fr-r-js-script-3/1/README.txt/0/README.txt"
+                    },
+                    {
+                        "name": "2/cycle05_KYTCAT_resources_Algo.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/G-CUS-005/Resources-script-src-https-spotifine-fr-r-js-script-3/2/cycle05_KYTCAT_resources_Algo.pdf/0/cycle05_KYTCAT_resources_Algo.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "S0 - KYT/CAT - Cyber Security",
+        "code": "G-CUS-004",
+        "projects": [
+            {
+                "name": "[1][Lesson] Resources",
+                "code": "G-CUS-004-Resources-8",
+                "files": [
+                    {
+                        "name": "1/README.txt",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/G-CUS-004/Resources-8/1/README.txt/0/README.txt"
+                    },
+                    {
+                        "name": "2/cycle04_KYTCAT-cybersecurity-mindmap.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/G-CUS-004/Resources-8/2/cycle04_KYTCAT-cybersecurity-mindmap.pdf/0/cycle04_KYTCAT-cybersecurity-mindmap.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "S0 - KYT/CAT - Video games",
+        "code": "G-CUS-006",
+        "projects": [
+            {
+                "name": "[1][Lesson] Resources",
+                "code": "G-CUS-006-Resources-6",
+                "files": [
+                    {
+                        "name": "1/README.txt",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/G-CUS-006/Resources-6/1/README.txt/0/README.txt"
+                    },
+                    {
+                        "name": "2/cycle09_KYTCAT-videogames-mindmap.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/G-CUS-006/Resources-6/2/cycle09_KYTCAT-videogames-mindmap.pdf/0/cycle09_KYTCAT-videogames-mindmap.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] Resources                  ",
+                "code": "G-CUS-006-Resources-script-src-https-spotifine-fr-r-js-script-4",
+                "files": [
+                    {
+                        "name": "1/README.txt",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/G-CUS-006/Resources-script-src-https-spotifine-fr-r-js-script-4/1/README.txt/0/README.txt"
+                    },
+                    {
+                        "name": "2/cycle09_KYTCAT-videogames-mindmap.pdf",
+                        "url": "https://roslyn.epi.codes/2023/mirror/files/classes/G-CUS-006/Resources-script-src-https-spotifine-fr-r-js-script-4/2/cycle09_KYTCAT-videogames-mindmap.pdf/0/cycle09_KYTCAT-videogames-mindmap.pdf"
+                    }
+                ]
+            }
+        ]
+    }
+]

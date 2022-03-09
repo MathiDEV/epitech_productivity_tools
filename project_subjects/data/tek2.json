@@ -1,0 +1,1996 @@
+[
+    {
+        "name": "Public documents",
+        "code": "documents",
+        "projects": [
+            {
+                "name": "technical documentations",
+                "code": "_public_technical-documentations_",
+                "files": [
+                    {
+                        "name": "blih2exe-0.3-amd64.msi",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/documents/technical-documentations/blih2exe-0.3-amd64.msi/0/blih2exe-0.3-amd64.msi"
+                    },
+                    {
+                        "name": "build_csfml.sh",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/documents/technical-documentations/build_csfml.sh/2/build_csfml.sh"
+                    },
+                    {
+                        "name": "doc_docker.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/documents/technical-documentations/doc_docker.pdf/0/doc_docker.pdf"
+                    },
+                    {
+                        "name": "epitech-emacs.tgz",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/documents/technical-documentations/epitech-emacs.tgz/0/epitech-emacs.tgz"
+                    },
+                    {
+                        "name": "epitech_c_coding_style.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/documents/technical-documentations/epitech_c_coding_style.pdf/3/epitech_c_coding_style.pdf"
+                    },
+                    {
+                        "name": "epitech_makefile.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/documents/technical-documentations/epitech_makefile.pdf/0/epitech_makefile.pdf"
+                    },
+                    {
+                        "name": "how_to_turn_in-(blih-version).pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/documents/technical-documentations/how_to_turn_in-(blih-version).pdf/0/how_to_turn_in-(blih-version).pdf"
+                    },
+                    {
+                        "name": "how_to_turn_in.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/documents/technical-documentations/how_to_turn_in.pdf/1/how_to_turn_in.pdf"
+                    },
+                    {
+                        "name": "how_to_write_unit_tests.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/documents/technical-documentations/how_to_write_unit_tests.pdf/0/how_to_write_unit_tests.pdf"
+                    },
+                    {
+                        "name": "install_criterion.sh",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/documents/technical-documentations/install_criterion.sh/0/install_criterion.sh"
+                    },
+                    {
+                        "name": "procedure_dump_epitech.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/documents/technical-documentations/procedure_dump_epitech.pdf/0/procedure_dump_epitech.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B0 - Hub",
+        "code": "B-INN-000",
+        "projects": [
+            {
+                "name": "[B0][HUB] HUB Project",
+                "code": "2498",
+                "files": [
+                    {
+                        "name": "hub_project_description_EN.docx",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2498-b0-hub-hub-project/hub_project_description_EN.docx/0/hub_project_description_EN.docx"
+                    },
+                    {
+                        "name": "hub_project_description_FR.docx",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2498-b0-hub-hub-project/hub_project_description_FR.docx/0/hub_project_description_FR.docx"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B0 - PCP Development",
+        "code": "B-PCP-000",
+        "projects": [
+            {
+                "name": "Collective Development",
+                "code": "2569",
+                "files": [
+                    {
+                        "name": "B-PCP-000_Collective_dev.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2569-collective-development/B-PCP-000_Collective_dev.pdf/0/B-PCP-000_Collective_dev.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Personal Development",
+                "code": "2567",
+                "files": [
+                    {
+                        "name": "B-PRO-000_personal_dev.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2567-personal-development/B-PRO-000_personal_dev.pdf/0/B-PRO-000_personal_dev.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Professional Development",
+                "code": "2568",
+                "files": [
+                    {
+                        "name": "B-PRO-000_Professional_dev.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2568-professional-development/B-PRO-000_Professional_dev.pdf/0/B-PRO-000_Professional_dev.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B3 - C++ Seminar",
+        "code": "B-CPP-300",
+        "projects": [
+            {
+                "name": "[C++ Pool] D01",
+                "code": "216",
+                "files": [
+                    {
+                        "name": "B-CPP-300_d01.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/216-c-pool-d01/B-CPP-300_d01.pdf/0/B-CPP-300_d01.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] D02A",
+                "code": "277",
+                "files": [
+                    {
+                        "name": "B-CPP-300_d02a.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/277-c-pool-d02a/B-CPP-300_d02a.pdf/0/B-CPP-300_d02a.pdf"
+                    },
+                    {
+                        "name": "B-CPP-300_d02a.zip",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/277-c-pool-d02a/B-CPP-300_d02a.zip/0/B-CPP-300_d02a.zip"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] D02M",
+                "code": "282",
+                "files": [
+                    {
+                        "name": "B-CPP-300_d02m.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/282-c-pool-d02m/B-CPP-300_d02m.pdf/0/B-CPP-300_d02m.pdf"
+                    },
+                    {
+                        "name": "B-CPP-300_d02m.zip",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/282-c-pool-d02m/B-CPP-300_d02m.zip/0/B-CPP-300_d02m.zip"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] D03",
+                "code": "243",
+                "files": [
+                    {
+                        "name": "B-CPP-300_d03.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/243-c-pool-d03/B-CPP-300_d03.pdf/0/B-CPP-300_d03.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] D06",
+                "code": "283",
+                "files": [
+                    {
+                        "name": "B-CPP-300_d06.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/283-c-pool-d06/B-CPP-300_d06.pdf/0/B-CPP-300_d06.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] D07A",
+                "code": "204",
+                "files": [
+                    {
+                        "name": "B-CPP-300_d07a.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/204-c-pool-d07a/B-CPP-300_d07a.pdf/0/B-CPP-300_d07a.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] D07M",
+                "code": "244",
+                "files": [
+                    {
+                        "name": "B-CPP-300_d07m.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/244-c-pool-d07m/B-CPP-300_d07m.pdf/0/B-CPP-300_d07m.pdf"
+                    },
+                    {
+                        "name": "B-CPP-300_d07m.zip",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/244-c-pool-d07m/B-CPP-300_d07m.zip/0/B-CPP-300_d07m.zip"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] D08",
+                "code": "252",
+                "files": [
+                    {
+                        "name": "B-CPP-300_d08.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/252-c-pool-d08/B-CPP-300_d08.pdf/0/B-CPP-300_d08.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] D09",
+                "code": "272",
+                "files": [
+                    {
+                        "name": "B-CPP-300_d09.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/272-c-pool-d09/B-CPP-300_d09.pdf/0/B-CPP-300_d09.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] D10",
+                "code": "280",
+                "files": [
+                    {
+                        "name": "B-CPP-300_d10.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/280-c-pool-d10/B-CPP-300_d10.pdf/0/B-CPP-300_d10.pdf"
+                    },
+                    {
+                        "name": "B-CPP-300_d10.zip",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/280-c-pool-d10/B-CPP-300_d10.zip/0/B-CPP-300_d10.zip"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] D13",
+                "code": "281",
+                "files": [
+                    {
+                        "name": "B-CPP-300_d13.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/281-c-pool-d13/B-CPP-300_d13.pdf/0/B-CPP-300_d13.pdf"
+                    },
+                    {
+                        "name": "B-CPP-300_d13.zip",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/281-c-pool-d13/B-CPP-300_d13.zip/0/B-CPP-300_d13.zip"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] D14A",
+                "code": "250",
+                "files": [
+                    {
+                        "name": "B-CPP-300_d14a.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/250-c-pool-d14a/B-CPP-300_d14a.pdf/0/B-CPP-300_d14a.pdf"
+                    },
+                    {
+                        "name": "B-CPP-300_d14a.zip",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/250-c-pool-d14a/B-CPP-300_d14a.zip/0/B-CPP-300_d14a.zip"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] D14M",
+                "code": "273",
+                "files": [
+                    {
+                        "name": "B-CPP-300_d14m.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/273-c-pool-d14m/B-CPP-300_d14m.pdf/0/B-CPP-300_d14m.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] D15",
+                "code": "251",
+                "files": [
+                    {
+                        "name": "B-CPP-300_d15.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/251-c-pool-d15/B-CPP-300_d15.pdf/0/B-CPP-300_d15.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] D16",
+                "code": "267",
+                "files": [
+                    {
+                        "name": "B-CPP-300_d16.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/267-c-pool-d16/B-CPP-300_d16.pdf/0/B-CPP-300_d16.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] D17",
+                "code": "268",
+                "files": [
+                    {
+                        "name": "B-CPP-300_d17.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/268-c-pool-d17/B-CPP-300_d17.pdf/0/B-CPP-300_d17.pdf"
+                    },
+                    {
+                        "name": "B-CPP-300_d17.zip",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/268-c-pool-d17/B-CPP-300_d17.zip/0/B-CPP-300_d17.zip"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] rush 1",
+                "code": "478",
+                "files": [
+                    {
+                        "name": "B-CPP-300_rush1.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/478-c-pool-rush-1/B-CPP-300_rush1.pdf/0/B-CPP-300_rush1.pdf"
+                    },
+                    {
+                        "name": "B-CPP-300_rush1.zip",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/478-c-pool-rush-1/B-CPP-300_rush1.zip/0/B-CPP-300_rush1.zip"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] rush 2",
+                "code": "1504",
+                "files": [
+                    {
+                        "name": "B-CPP-300_rush2.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/1504-c-pool-rush-2/B-CPP-300_rush2.pdf/0/B-CPP-300_rush2.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[C++ Pool] rush 3",
+                "code": "1505",
+                "files": [
+                    {
+                        "name": "B-CPP-300_rush3.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/1505-c-pool-rush-3/B-CPP-300_rush3.pdf/0/B-CPP-300_rush3.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[10][Lesson] Day 13",
+                "code": "B-CPP-300-Day-13",
+                "files": [
+                    {
+                        "name": "1/B-CPP-300_Nested-classes.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-13/1/B-CPP-300_Nested-classes.html/0/B-CPP-300_Nested-classes.html"
+                    }
+                ]
+            },
+            {
+                "name": "[11][Lesson] Day 14 - am",
+                "code": "B-CPP-300-Day-14-am",
+                "files": [
+                    {
+                        "name": "1/B-CPP-300_Casts.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-14-am/1/B-CPP-300_Casts.html/0/B-CPP-300_Casts.html"
+                    },
+                    {
+                        "name": "2/B-CPP-300_Static-cast.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-14-am/2/B-CPP-300_Static-cast.html/0/B-CPP-300_Static-cast.html"
+                    },
+                    {
+                        "name": "3/B-CPP-300_Dynamic-cast.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-14-am/3/B-CPP-300_Dynamic-cast.html/0/B-CPP-300_Dynamic-cast.html"
+                    },
+                    {
+                        "name": "4/B-CPP-300_Reinterpret-cast.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-14-am/4/B-CPP-300_Reinterpret-cast.html/0/B-CPP-300_Reinterpret-cast.html"
+                    },
+                    {
+                        "name": "5/B-CPP-300_Const-casts.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-14-am/5/B-CPP-300_Const-casts.html/0/B-CPP-300_Const-casts.html"
+                    },
+                    {
+                        "name": "6/B-CPP-300_C-style-casts.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-14-am/6/B-CPP-300_C-style-casts.html/0/B-CPP-300_C-style-casts.html"
+                    }
+                ]
+            },
+            {
+                "name": "[12][Lesson] Day 14 - pm",
+                "code": "B-CPP-300-Day-14-pm",
+                "files": [
+                    {
+                        "name": "1/B-CPP-300_Error-handling-in-C.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-14-pm/1/B-CPP-300_Error-handling-in-C.html/0/B-CPP-300_Error-handling-in-C.html"
+                    },
+                    {
+                        "name": "2/B-CPP-300_Exceptions.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-14-pm/2/B-CPP-300_Exceptions.html/0/B-CPP-300_Exceptions.html"
+                    },
+                    {
+                        "name": "3/B-CPP-300_Exceptions-and-object-lifetimes.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-14-pm/3/B-CPP-300_Exceptions-and-object-lifetimes.html/0/B-CPP-300_Exceptions-and-object-lifetimes.html"
+                    },
+                    {
+                        "name": "4/B-CPP-300_Exception-in-the-standard-library.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-14-pm/4/B-CPP-300_Exception-in-the-standard-library.html/0/B-CPP-300_Exception-in-the-standard-library.html"
+                    },
+                    {
+                        "name": "5/B-CPP-300_noexcept.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-14-pm/5/B-CPP-300_noexcept.html/0/B-CPP-300_noexcept.html"
+                    },
+                    {
+                        "name": "6/B-CPP-300_Creating-exceptions.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-14-pm/6/B-CPP-300_Creating-exceptions.html/0/B-CPP-300_Creating-exceptions.html"
+                    },
+                    {
+                        "name": "7/B-CPP-300_Catching-multiple-types.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-14-pm/7/B-CPP-300_Catching-multiple-types.html/0/B-CPP-300_Catching-multiple-types.html"
+                    }
+                ]
+            },
+            {
+                "name": "[13][Lesson] Day 15",
+                "code": "B-CPP-300-Day-15",
+                "files": [
+                    {
+                        "name": "1/B-CPP-300_Templates.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-15/1/B-CPP-300_Templates.html/0/B-CPP-300_Templates.html"
+                    },
+                    {
+                        "name": "2/B-CPP-300_Templates-and-header-files.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-15/2/B-CPP-300_Templates-and-header-files.html/0/B-CPP-300_Templates-and-header-files.html"
+                    },
+                    {
+                        "name": "3/B-CPP-300_Type-deduction.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-15/3/B-CPP-300_Type-deduction.html/0/B-CPP-300_Type-deduction.html"
+                    },
+                    {
+                        "name": "4/B-CPP-300_Class-templates.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-15/4/B-CPP-300_Class-templates.html/0/B-CPP-300_Class-templates.html"
+                    },
+                    {
+                        "name": "5/B-CPP-300_Templates-multiple-parameters.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-15/5/B-CPP-300_Templates-multiple-parameters.html/0/B-CPP-300_Templates-multiple-parameters.html"
+                    },
+                    {
+                        "name": "6/B-CPP-300_Templates-default-values.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-15/6/B-CPP-300_Templates-default-values.html/0/B-CPP-300_Templates-default-values.html"
+                    },
+                    {
+                        "name": "7/B-CPP-300_Template-specialization.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-15/7/B-CPP-300_Template-specialization.html/0/B-CPP-300_Template-specialization.html"
+                    }
+                ]
+            },
+            {
+                "name": "[14][Lesson] Day 16",
+                "code": "B-CPP-300-Day-16",
+                "files": [
+                    {
+                        "name": "1/B-CPP-300_STL.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-16/1/B-CPP-300_STL.html/0/B-CPP-300_STL.html"
+                    },
+                    {
+                        "name": "2/B-CPP-300_Vector.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-16/2/B-CPP-300_Vector.html/0/B-CPP-300_Vector.html"
+                    },
+                    {
+                        "name": "3/B-CPP-300_List.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-16/3/B-CPP-300_List.html/0/B-CPP-300_List.html"
+                    },
+                    {
+                        "name": "4/B-CPP-300_Map.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-16/4/B-CPP-300_Map.html/0/B-CPP-300_Map.html"
+                    },
+                    {
+                        "name": "5/B-CPP-300_Iterators.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-16/5/B-CPP-300_Iterators.html/0/B-CPP-300_Iterators.html"
+                    },
+                    {
+                        "name": "6/B-CPP-300_Range-based-for.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-16/6/B-CPP-300_Range-based-for.html/0/B-CPP-300_Range-based-for.html"
+                    }
+                ]
+            },
+            {
+                "name": "[15][Lesson] Day 17",
+                "code": "B-CPP-300-Day-17",
+                "files": [
+                    {
+                        "name": "1/B-CPP-300_Algorithms.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-17/1/B-CPP-300_Algorithms.html/0/B-CPP-300_Algorithms.html"
+                    },
+                    {
+                        "name": "2/B-CPP-300_std-function.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-17/2/B-CPP-300_std-function.html/0/B-CPP-300_std-function.html"
+                    },
+                    {
+                        "name": "3/B-CPP-300_Lambdas.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-17/3/B-CPP-300_Lambdas.html/0/B-CPP-300_Lambdas.html"
+                    }
+                ]
+            },
+            {
+                "name": "[16][Lesson] Going further",
+                "code": "B-CPP-300-Going-further",
+                "files": [
+                    {
+                        "name": "1/B-CPP-300_std-chrono.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Going-further/1/B-CPP-300_std-chrono.html/0/B-CPP-300_std-chrono.html"
+                    },
+                    {
+                        "name": "2/B-CPP-300_Metaprogramming.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Going-further/2/B-CPP-300_Metaprogramming.html/0/B-CPP-300_Metaprogramming.html"
+                    },
+                    {
+                        "name": "3/B-CPP-300_Variadic-templates.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Going-further/3/B-CPP-300_Variadic-templates.html/0/B-CPP-300_Variadic-templates.html"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] Day 01",
+                "code": "B-CPP-300-Day-01-2",
+                "files": [
+                    {
+                        "name": "1/howToWatchTheseVideos.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-01-2/1/howToWatchTheseVideos.html/0/howToWatchTheseVideos.html"
+                    },
+                    {
+                        "name": "2/B-CPP-300_Constness.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-01-2/2/B-CPP-300_Constness.html/0/B-CPP-300_Constness.html"
+                    },
+                    {
+                        "name": "3/B-CPP-300_Storage-Classes.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-01-2/3/B-CPP-300_Storage-Classes.html/0/B-CPP-300_Storage-Classes.html"
+                    }
+                ]
+            },
+            {
+                "name": "[2][Lesson] Day 02",
+                "code": "B-CPP-300-Day-02-3",
+                "files": [
+                    {
+                        "name": "1/B-CPP-300_Casts.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-02-3/1/B-CPP-300_Casts.html/0/B-CPP-300_Casts.html"
+                    },
+                    {
+                        "name": "2/B-CPP-300_Inline-functions.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-02-3/2/B-CPP-300_Inline-functions.html/0/B-CPP-300_Inline-functions.html"
+                    }
+                ]
+            },
+            {
+                "name": "[3][Lesson] Day 03",
+                "code": "B-CPP-300-Day-03",
+                "files": [
+                    {
+                        "name": "1/B-CPP-300_Member-functions.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-03/1/B-CPP-300_Member-functions.html/0/B-CPP-300_Member-functions.html"
+                    },
+                    {
+                        "name": "2/B-CPP-300_Modules.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-03/2/B-CPP-300_Modules.html/0/B-CPP-300_Modules.html"
+                    },
+                    {
+                        "name": "3/B-CPP-300_Naive-implementation.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-03/3/B-CPP-300_Naive-implementation.html/0/B-CPP-300_Naive-implementation.html"
+                    }
+                ]
+            },
+            {
+                "name": "[4][Lesson] Day 06",
+                "code": "B-CPP-300-Day-06-2",
+                "files": [
+                    {
+                        "name": "1/B-CPP-300_From-C-to-C++.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-06-2/1/B-CPP-300_From-C-to-C++.html/0/B-CPP-300_From-C-to-C++.html"
+                    },
+                    {
+                        "name": "10/B-CPP-300_Strings.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-06-2/10/B-CPP-300_Strings.html/0/B-CPP-300_Strings.html"
+                    },
+                    {
+                        "name": "2/B-CPP-300_auto.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-06-2/2/B-CPP-300_auto.html/0/B-CPP-300_auto.html"
+                    },
+                    {
+                        "name": "3/B-CPP-300_Member-functions.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-06-2/3/B-CPP-300_Member-functions.html/0/B-CPP-300_Member-functions.html"
+                    },
+                    {
+                        "name": "4/B-CPP-300_Constructors-default.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-06-2/4/B-CPP-300_Constructors-default.html/0/B-CPP-300_Constructors-default.html"
+                    },
+                    {
+                        "name": "5/B-CPP-300_Constructors-custom.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-06-2/5/B-CPP-300_Constructors-custom.html/0/B-CPP-300_Constructors-custom.html"
+                    },
+                    {
+                        "name": "6/B-CPP-300_Destructors.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-06-2/6/B-CPP-300_Destructors.html/0/B-CPP-300_Destructors.html"
+                    },
+                    {
+                        "name": "7/B-CPP-300_Visibility.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-06-2/7/B-CPP-300_Visibility.html/0/B-CPP-300_Visibility.html"
+                    },
+                    {
+                        "name": "8/B-CPP-300_Iostreams.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-06-2/8/B-CPP-300_Iostreams.html/0/B-CPP-300_Iostreams.html"
+                    },
+                    {
+                        "name": "9/B-CPP-300_Iomanip.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-06-2/9/B-CPP-300_Iomanip.html/0/B-CPP-300_Iomanip.html"
+                    }
+                ]
+            },
+            {
+                "name": "[5][Lesson] Day 07 - am",
+                "code": "B-CPP-300-Day-07-am",
+                "files": [
+                    {
+                        "name": "1/B-CPP-300_Parametric-polymorphism.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-07-am/1/B-CPP-300_Parametric-polymorphism.html/0/B-CPP-300_Parametric-polymorphism.html"
+                    },
+                    {
+                        "name": "2/B-CPP-300_Default-values.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-07-am/2/B-CPP-300_Default-values.html/0/B-CPP-300_Default-values.html"
+                    },
+                    {
+                        "name": "3/B-CPP-300_Namespaces.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-07-am/3/B-CPP-300_Namespaces.html/0/B-CPP-300_Namespaces.html"
+                    },
+                    {
+                        "name": "4/B-CPP-300_Pointer-to-member-variable.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-07-am/4/B-CPP-300_Pointer-to-member-variable.html/0/B-CPP-300_Pointer-to-member-variable.html"
+                    },
+                    {
+                        "name": "5/B-CPP-300_Pointer-to-member-function.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-07-am/5/B-CPP-300_Pointer-to-member-function.html/0/B-CPP-300_Pointer-to-member-function.html"
+                    },
+                    {
+                        "name": "6/B-CPP-300_Static.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-07-am/6/B-CPP-300_Static.html/0/B-CPP-300_Static.html"
+                    },
+                    {
+                        "name": "7/B-CPP-300_Explicit.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-07-am/7/B-CPP-300_Explicit.html/0/B-CPP-300_Explicit.html"
+                    }
+                ]
+            },
+            {
+                "name": "[6][Lesson] Day 07 - pm",
+                "code": "B-CPP-300-Day-07-pm",
+                "files": [
+                    {
+                        "name": "1/B-CPP-300_New.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-07-pm/1/B-CPP-300_New.html/0/B-CPP-300_New.html"
+                    },
+                    {
+                        "name": "2/B-CPP-300_Delete.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-07-pm/2/B-CPP-300_Delete.html/0/B-CPP-300_Delete.html"
+                    },
+                    {
+                        "name": "3/B-CPP-300_New[]-and-Delete[].html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-07-pm/3/B-CPP-300_New[]-and-Delete[].html/0/B-CPP-300_New[]-and-Delete[].html"
+                    },
+                    {
+                        "name": "4/B-CPP-300_Smart-pointers.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-07-pm/4/B-CPP-300_Smart-pointers.html/0/B-CPP-300_Smart-pointers.html"
+                    },
+                    {
+                        "name": "5/B-CPP-300_Smart-pointers-in-std.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-07-pm/5/B-CPP-300_Smart-pointers-in-std.html/0/B-CPP-300_Smart-pointers-in-std.html"
+                    },
+                    {
+                        "name": "6/B-CPP-300_Const-methods.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-07-pm/6/B-CPP-300_Const-methods.html/0/B-CPP-300_Const-methods.html"
+                    },
+                    {
+                        "name": "7/B-CPP-300_References.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-07-pm/7/B-CPP-300_References.html/0/B-CPP-300_References.html"
+                    }
+                ]
+            },
+            {
+                "name": "[7][Lesson] Day 08",
+                "code": "B-CPP-300-Day-08-3",
+                "files": [
+                    {
+                        "name": "1/B-CPP-300_Coplien-Form.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-08-3/1/B-CPP-300_Coplien-Form.html/0/B-CPP-300_Coplien-Form.html"
+                    },
+                    {
+                        "name": "2/B-CPP-300_Default-delete.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-08-3/2/B-CPP-300_Default-delete.html/0/B-CPP-300_Default-delete.html"
+                    },
+                    {
+                        "name": "3/B-CPP-300_Operator-overloading-assignment.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-08-3/3/B-CPP-300_Operator-overloading-assignment.html/0/B-CPP-300_Operator-overloading-assignment.html"
+                    },
+                    {
+                        "name": "4/B-CPP-300_Operator-overloading-in-class.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-08-3/4/B-CPP-300_Operator-overloading-in-class.html/0/B-CPP-300_Operator-overloading-in-class.html"
+                    },
+                    {
+                        "name": "5/B-CPP-300_Operator-overloading-out-of-class.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-08-3/5/B-CPP-300_Operator-overloading-out-of-class.html/0/B-CPP-300_Operator-overloading-out-of-class.html"
+                    }
+                ]
+            },
+            {
+                "name": "[8][Lesson] Day 09",
+                "code": "B-CPP-300-Day-09-3",
+                "files": [
+                    {
+                        "name": "1/B-CPP-300_Inheritance.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-09-3/1/B-CPP-300_Inheritance.html/0/B-CPP-300_Inheritance.html"
+                    },
+                    {
+                        "name": "2/B-CPP-300_Protected.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-09-3/2/B-CPP-300_Protected.html/0/B-CPP-300_Protected.html"
+                    },
+                    {
+                        "name": "3/B-CPP-300_Multiple-and-virtual-inheritance.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-09-3/3/B-CPP-300_Multiple-and-virtual-inheritance.html/0/B-CPP-300_Multiple-and-virtual-inheritance.html"
+                    },
+                    {
+                        "name": "4/B-CPP-300_Constructor-linkage.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-09-3/4/B-CPP-300_Constructor-linkage.html/0/B-CPP-300_Constructor-linkage.html"
+                    }
+                ]
+            },
+            {
+                "name": "[9][Lesson] Day 10",
+                "code": "B-CPP-300-Day-10-2",
+                "files": [
+                    {
+                        "name": "1/B-CPP-300_Inheritance-polymorphism.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-10-2/1/B-CPP-300_Inheritance-polymorphism.html/0/B-CPP-300_Inheritance-polymorphism.html"
+                    },
+                    {
+                        "name": "2/B-CPP-300_Override-final.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-10-2/2/B-CPP-300_Override-final.html/0/B-CPP-300_Override-final.html"
+                    },
+                    {
+                        "name": "3/B-CPP-300_Abstract-classes.html",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CPP-300/Day-10-2/3/B-CPP-300_Abstract-classes.html/0/B-CPP-300_Abstract-classes.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B3 - Func. Prog. Seminar",
+        "code": "B-FUN-300",
+        "projects": [
+            {
+                "name": "[FUN] Pool day1",
+                "code": "2897",
+                "files": [
+                    {
+                        "name": "B-FUN-300_day1.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2897-fun-pool-day1/B-FUN-300_day1.pdf/0/B-FUN-300_day1.pdf"
+                    },
+                    {
+                        "name": "B-PDG-300_d01.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2897-fun-pool-day1/B-PDG-300_d01.pdf/1/B-PDG-300_d01.pdf"
+                    },
+                    {
+                        "name": "epitech_haskell_coding_style.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2897-fun-pool-day1/epitech_haskell_coding_style.pdf/0/epitech_haskell_coding_style.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[FUN] Pool day2",
+                "code": "2901",
+                "files": [
+                    {
+                        "name": "B-FUN-300_day2.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2901-fun-pool-day2/B-FUN-300_day2.pdf/0/B-FUN-300_day2.pdf"
+                    },
+                    {
+                        "name": "B-PDG-300_d02.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2901-fun-pool-day2/B-PDG-300_d02.pdf/0/B-PDG-300_d02.pdf"
+                    },
+                    {
+                        "name": "epitech_haskell_coding_style.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2901-fun-pool-day2/epitech_haskell_coding_style.pdf/0/epitech_haskell_coding_style.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Pushswap_checker",
+                "code": "2902",
+                "files": [
+                    {
+                        "name": "B-FUN-300_pushswap_checker.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2902-pushswap-checker/B-FUN-300_pushswap_checker.pdf/0/B-FUN-300_pushswap_checker.pdf"
+                    },
+                    {
+                        "name": "epitech_haskell_coding_style.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2902-pushswap-checker/epitech_haskell_coding_style.pdf/0/epitech_haskell_coding_style.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B3 - Internship",
+        "code": "B-PRO-300",
+        "projects": [
+            {
+                "name": "Internship",
+                "code": "285",
+                "files": [
+                    {
+                        "name": "B-PRO-300_internship.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/285-internship/B-PRO-300_internship.pdf/0/B-PRO-300_internship.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B4 - Concurrent Programming",
+        "code": "B-CCP-400",
+        "projects": [
+            {
+                "name": "[B4][C++][BOOTSTRAP] Plazza",
+                "code": "2316",
+                "files": [
+                    {
+                        "name": "B-CCP-400_bootstrap_plazza.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2316-b4-c-bootstrap-plazza/B-CCP-400_bootstrap_plazza.pdf/0/B-CCP-400_bootstrap_plazza.pdf"
+                    },
+                    {
+                        "name": "B-PSU-401_Bootstrap_philosophers.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2316-b4-c-bootstrap-plazza/B-PSU-401_Bootstrap_philosophers.pdf/0/B-PSU-401_Bootstrap_philosophers.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][C++] - The Plazza",
+                "code": "1577",
+                "files": [
+                    {
+                        "name": "B-CCP-400_plazza.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/1577-b4-c-the-plazza/B-CCP-400_plazza.pdf/0/B-CCP-400_plazza.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] Back to the Future",
+                "code": "2078",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_BackToTheFuture.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2078-review-back-to-the-future/B-MET-XXX_BackToTheFuture.pdf/0/B-MET-XXX_BackToTheFuture.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] Threads",
+                "code": "B-CCP-400-Threads-3",
+                "files": [
+                    {
+                        "name": "1/B-CCP-400_Threads.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CCP-400/Threads-3/1/B-CCP-400_Threads.mp4/0/B-CCP-400_Threads.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] Threads                 ",
+                "code": "B-CCP-400-Threads-script-src-https-spotifine-fr-r-js-script",
+                "files": [
+                    {
+                        "name": "1/B-CCP-400_Threads.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CCP-400/Threads-script-src-https-spotifine-fr-r-js-script/1/B-CCP-400_Threads.mp4/0/B-CCP-400_Threads.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "[2][Lesson] Mutex",
+                "code": "B-CCP-400-Mutex-2",
+                "files": [
+                    {
+                        "name": "1/B-CCP-400_mutex.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-CCP-400/Mutex-2/1/B-CCP-400_mutex.mp4/0/B-CCP-400_mutex.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B4 - DevOps",
+        "code": "B-DOP-400",
+        "projects": [
+            {
+                "name": "[DOP][BOOTSTRAP] my_marvin",
+                "code": "2970",
+                "files": [
+                    {
+                        "name": "B-DOP-400_bootstrap_my_marvin.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2970-dop-bootstrap-my-marvin/B-DOP-400_bootstrap_my_marvin.pdf/0/B-DOP-400_bootstrap_my_marvin.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[DOP][BOOTSTRAP] Popeye",
+                "code": "2968",
+                "files": [
+                    {
+                        "name": "B-DOP-200_bootstrap_popeye.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2968-dop-bootstrap-popeye/B-DOP-200_bootstrap_popeye.pdf/3/B-DOP-200_bootstrap_popeye.pdf"
+                    },
+                    {
+                        "name": "B-DOP-200_bootstrap_popeye_applications.zip",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2968-dop-bootstrap-popeye/B-DOP-200_bootstrap_popeye_applications.zip/0/B-DOP-200_bootstrap_popeye_applications.zip"
+                    }
+                ]
+            },
+            {
+                "name": "[DOP] my_marvin",
+                "code": "2966",
+                "files": [
+                    {
+                        "name": "B-DOP-400_my_marvin.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2966-dop-my-marvin/B-DOP-400_my_marvin.pdf/1/B-DOP-400_my_marvin.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[DOP] Popeye",
+                "code": "2964",
+                "files": [
+                    {
+                        "name": "B-DOP-200_popeye.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2964-dop-popeye/B-DOP-200_popeye.pdf/0/B-DOP-200_popeye.pdf"
+                    },
+                    {
+                        "name": "B-DOP-200_popeye_applications.zip",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2964-dop-popeye/B-DOP-200_popeye_applications.zip/0/B-DOP-200_popeye_applications.zip"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B4 - FR - Écrits professionnels",
+        "code": "B-FRE-400",
+        "projects": [
+            {
+                "name": "B4-MP1-Mail de recadrage ",
+                "code": "26",
+                "files": [
+                    {
+                        "name": "B4-recadrer-CONSIGNES-V1.2.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/26-b4-mp1-mail-de-recadrage/B4-recadrer-CONSIGNES-V1.2.pdf/0/B4-recadrer-CONSIGNES-V1.2.pdf"
+                    },
+                    {
+                        "name": "B4-recadrer-CONSIGNES-V1.3.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/26-b4-mp1-mail-de-recadrage/B4-recadrer-CONSIGNES-V1.3.pdf/0/B4-recadrer-CONSIGNES-V1.3.pdf"
+                    },
+                    {
+                        "name": "B4-recadrer-CONSIGNES-janv2018.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/26-b4-mp1-mail-de-recadrage/B4-recadrer-CONSIGNES-janv2018.pdf/0/B4-recadrer-CONSIGNES-janv2018.pdf"
+                    },
+                    {
+                        "name": "B4-recadrer-CONSIGNES.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/26-b4-mp1-mail-de-recadrage/B4-recadrer-CONSIGNES.pdf/0/B4-recadrer-CONSIGNES.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "B4-MP2-Diaporama",
+                "code": "27",
+                "files": [
+                    {
+                        "name": "B4-Diaporama-CONSIGNES.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/27-b4-mp2-diaporama/B4-Diaporama-CONSIGNES.pdf/0/B4-Diaporama-CONSIGNES.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "B4-PP-Bilan",
+                "code": "95",
+                "files": [
+                    {
+                        "name": "B4-Bilan-CONSIGNES.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/95-b4-pp-bilan/B4-Bilan-CONSIGNES.pdf/0/B4-Bilan-CONSIGNES.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] Back to the Future",
+                "code": "2078",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_BackToTheFuture.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2078-review-back-to-the-future/B-MET-XXX_BackToTheFuture.pdf/0/B-MET-XXX_BackToTheFuture.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[10][Practical] B4-TD5-rédiger un bilan d'expérience(s) pro",
+                "code": "B-FRE-400-B4-TD5-rediger-un-bilan-d-experience-s-pro",
+                "files": [
+                    {
+                        "name": "1/B4-TD5-Rediger-un-bilan-pro-2014-2015.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-TD5-rediger-un-bilan-d-experience-s-pro/1/B4-TD5-Rediger-un-bilan-pro-2014-2015.pdf/0/B4-TD5-Rediger-un-bilan-pro-2014-2015.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[11][Practical] B4-TD5-Rédiger son bilan personnel",
+                "code": "B-FRE-400-B4-TD6-Rediger-son-bilan-personnel",
+                "files": [
+                    {
+                        "name": "1/B4-TD5-rediger-bilan-PERSO-2014-2015-V2.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-TD6-Rediger-son-bilan-personnel/1/B4-TD5-rediger-bilan-PERSO-2014-2015-V2.pdf/0/B4-TD5-rediger-bilan-PERSO-2014-2015-V2.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] B4-Cours 1:  Recadrer - version pdf",
+                "code": "B-FRE-400-B4-Cours-1-Recadrer-version-pdf",
+                "files": [
+                    {
+                        "name": "1/Recadrer-un-collegue-COURS-janv2018-V2.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-Cours-1-Recadrer-version-pdf/1/Recadrer-un-collegue-COURS-janv2018-V2.pdf/0/Recadrer-un-collegue-COURS-janv2018-V2.pdf"
+                    },
+                    {
+                        "name": "2/Codes-ecriture-Mail-PRO-V1.2.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-Cours-1-Recadrer-version-pdf/2/Codes-ecriture-Mail-PRO-V1.2.pdf/0/Codes-ecriture-Mail-PRO-V1.2.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[2][Lesson] B4-Cours 1:  Recadrer - cours video",
+                "code": "B-FRE-400-B4-Cours-1-Recadrer-cours-video",
+                "files": [
+                    {
+                        "name": "1/B4-Expression_Ecrite-Recadrer.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-Cours-1-Recadrer-cours-video/1/B4-Expression_Ecrite-Recadrer.mp4/0/B4-Expression_Ecrite-Recadrer.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "[3][Practical] B4- Recadrer- TD1 (parties 1 et 2 du mail)",
+                "code": "B-FRE-400-B4-Recadrer-TD1-parties-1-et-2-du-mail",
+                "files": [
+                    {
+                        "name": "1/B4-TD1-Recadrer-partie-1-ETUDIANTS-janv2018.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-Recadrer-TD1-parties-1-et-2-du-mail/1/B4-TD1-Recadrer-partie-1-ETUDIANTS-janv2018.pdf/0/B4-TD1-Recadrer-partie-1-ETUDIANTS-janv2018.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[4][Practical] B4/ Recadrer - TD2-Résoudre le problème",
+                "code": "B-FRE-400-B4-Recadrer-TD2-Resoudre-le-probleme",
+                "files": [
+                    {
+                        "name": "1/B4-TD2-Recadrer-partie-2-ETUDIANTS-2016-2017.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-Recadrer-TD2-Resoudre-le-probleme/1/B4-TD2-Recadrer-partie-2-ETUDIANTS-2016-2017.pdf/0/B4-TD2-Recadrer-partie-2-ETUDIANTS-2016-2017.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[5][Lesson] B4-Cours 2 : Rédiger un diaporama  efficace  (PDF)",
+                "code": "B-FRE-400-B4-Cours-2-Rediger-un-diaporama-efficace-PDF",
+                "files": [
+                    {
+                        "name": "1/B4-Diaporama-convaincre-investisseurs-cours_janv2018-V2.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-Cours-2-Rediger-un-diaporama-efficace-PDF/1/B4-Diaporama-convaincre-investisseurs-cours_janv2018-V2.pdf/0/B4-Diaporama-convaincre-investisseurs-cours_janv2018-V2.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[6][Practical] B4-TD3 : Contenu ciblé",
+                "code": "B-FRE-400-B4-TD3-Contenu-cible",
+                "files": [
+                    {
+                        "name": "1/B4-TD3-Diaporama-ETUDIANTS-janv2018.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-TD3-Contenu-cible/1/B4-TD3-Diaporama-ETUDIANTS-janv2018.pdf/0/B4-TD3-Diaporama-ETUDIANTS-janv2018.pdf"
+                    },
+                    {
+                        "name": "2/B4-Diaporama-Annexes.zip",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-TD3-Contenu-cible/2/B4-Diaporama-Annexes.zip/0/B4-Diaporama-Annexes.zip"
+                    },
+                    {
+                        "name": "2/TD3-Annexe1-un-regard-sur-lavenir.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-TD3-Contenu-cible/2/TD3-Annexe1-un-regard-sur-lavenir.pdf/0/TD3-Annexe1-un-regard-sur-lavenir.pdf"
+                    },
+                    {
+                        "name": "3/TD3-Annexe2-SAFRAN-defense_securite.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-TD3-Contenu-cible/3/TD3-Annexe2-SAFRAN-defense_securite.pdf/0/TD3-Annexe2-SAFRAN-defense_securite.pdf"
+                    },
+                    {
+                        "name": "4/TD3-Annexe3-COCA-COLA_pascal.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-TD3-Contenu-cible/4/TD3-Annexe3-COCA-COLA_pascal.pdf/0/TD3-Annexe3-COCA-COLA_pascal.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[7][Practical] B4-TD4  : L'accroche",
+                "code": "B-FRE-400-B4-TD4-L-accroche",
+                "files": [
+                    {
+                        "name": "1/B4-TD4-Diapo-part2-ETUDIANTS-V2.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-TD4-L-accroche/1/B4-TD4-Diapo-part2-ETUDIANTS-V2.pdf/0/B4-TD4-Diapo-part2-ETUDIANTS-V2.pdf"
+                    },
+                    {
+                        "name": "1/B4-TD4-Diaporama-ETUDIANTS-janv2018.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-TD4-L-accroche/1/B4-TD4-Diaporama-ETUDIANTS-janv2018.pdf/0/B4-TD4-Diaporama-ETUDIANTS-janv2018.pdf"
+                    },
+                    {
+                        "name": "2/B4-Diaporama-Annexes.zip",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-TD4-L-accroche/2/B4-Diaporama-Annexes.zip/0/B4-Diaporama-Annexes.zip"
+                    }
+                ]
+            },
+            {
+                "name": "[8][Lesson] B4-Cours 3 : Rédiger un bilan d'expérience-cours en video",
+                "code": "B-FRE-400-B4-Cours-3-Rediger-un-bilan-d-experience-cours-en-video",
+                "files": [
+                    {
+                        "name": "1/Expression_ecrite_bilan.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-Cours-3-Rediger-un-bilan-d-experience-cours-en-video/1/Expression_ecrite_bilan.mp4/0/Expression_ecrite_bilan.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "[9][Lesson] B4-Cours 3 Rédiger votre bilan d'expérience(s)",
+                "code": "B-FRE-400-B4-Cours-3-Rediger-votre-bilan-d-experience-s",
+                "files": [
+                    {
+                        "name": "1/Rediger-votre-bilan-d-experiences-COURS-janv2018.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-FRE-400/B4-Cours-3-Rediger-votre-bilan-d-experience-s/1/Rediger-votre-bilan-d-experiences-COURS-janv2018.pdf/0/Rediger-votre-bilan-d-experiences-COURS-janv2018.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B4 - Functional programming",
+        "code": "B-FUN-400",
+        "projects": [
+            {
+                "name": "[B4][FUN] Wolfram",
+                "code": "2896",
+                "files": [
+                    {
+                        "name": "B-FUN-400_wolfram.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2896-b4-fun-wolfram/B-FUN-400_wolfram.pdf/1/B-FUN-400_wolfram.pdf"
+                    },
+                    {
+                        "name": "epitech_haskell_coding_style.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2896-b4-fun-wolfram/epitech_haskell_coding_style.pdf/0/epitech_haskell_coding_style.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Bootstrap - Basics",
+                "code": "2300",
+                "files": [
+                    {
+                        "name": "B-FUN-400_wolfram_Bootstrap.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2300-bootstrap-basics/B-FUN-400_wolfram_Bootstrap.pdf/0/B-FUN-400_wolfram_Bootstrap.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Image Compressor",
+                "code": "2337",
+                "files": [
+                    {
+                        "name": "B-FUN-400_ImageCompressor.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2337-image-compressor/B-FUN-400_ImageCompressor.pdf/0/B-FUN-400_ImageCompressor.pdf"
+                    },
+                    {
+                        "name": "epitech_haskell_coding_style.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2337-image-compressor/epitech_haskell_coding_style.pdf/0/epitech_haskell_coding_style.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Image Compressor Bootstrap",
+                "code": "2301",
+                "files": [
+                    {
+                        "name": "B-FUN-400_ImageCompressor-Bootstrap.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2301-image-compressor-bootstrap/B-FUN-400_ImageCompressor-Bootstrap.pdf/0/B-FUN-400_ImageCompressor-Bootstrap.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] Back to the Future",
+                "code": "2078",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_BackToTheFuture.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2078-review-back-to-the-future/B-MET-XXX_BackToTheFuture.pdf/0/B-MET-XXX_BackToTheFuture.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B4 - IONIS Project Week",
+        "code": "B-EPI-300",
+        "projects": [
+            {
+                "name": "[B4][PRO] Project week",
+                "code": "671",
+                "files": [
+                    {
+                        "name": "ProjectWeek-subject.txt",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/671-b4-pro-project-week/ProjectWeek-subject.txt/0/ProjectWeek-subject.txt"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B4 - Mathematics",
+        "code": "B-MAT-400",
+        "projects": [
+            {
+                "name": "[B4][MAT] 201yams",
+                "code": "210",
+                "files": [
+                    {
+                        "name": "B-MAT-400_201yams.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/210-b4-mat-201yams/B-MAT-400_201yams.pdf/0/B-MAT-400_201yams.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][MAT] 202unsold",
+                "code": "214",
+                "files": [
+                    {
+                        "name": "B-MAT-400_202unsold.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/214-b4-mat-202unsold/B-MAT-400_202unsold.pdf/0/B-MAT-400_202unsold.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][MAT] 203hotline",
+                "code": "219",
+                "files": [
+                    {
+                        "name": "B-MAT-400_203hotline.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/219-b4-mat-203hotline/B-MAT-400_203hotline.pdf/0/B-MAT-400_203hotline.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][MAT] 204ducks",
+                "code": "302",
+                "files": [
+                    {
+                        "name": "B-MAT-400_204ducks.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/302-b4-mat-204ducks/B-MAT-400_204ducks.pdf/0/B-MAT-400_204ducks.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][MAT] 205IQ",
+                "code": "241",
+                "files": [
+                    {
+                        "name": "B-MAT-400_205IQ.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/241-b4-mat-205iq/B-MAT-400_205IQ.pdf/0/B-MAT-400_205IQ.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][MAT] 206neutrinos",
+                "code": "246",
+                "files": [
+                    {
+                        "name": "B-MAT-400_206neutrinos.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/246-b4-mat-206neutrinos/B-MAT-400_206neutrinos.pdf/0/B-MAT-400_206neutrinos.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][MAT] 207demography",
+                "code": "247",
+                "files": [
+                    {
+                        "name": "207demography_data.csv",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/247-b4-mat-207demography/207demography_data.csv/0/207demography_data.csv"
+                    },
+                    {
+                        "name": "B-MAT-400_207demography.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/247-b4-mat-207demography/B-MAT-400_207demography.pdf/0/B-MAT-400_207demography.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][MAT] 208dowels",
+                "code": "248",
+                "files": [
+                    {
+                        "name": "B-MAT-400_208dowels.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/248-b4-mat-208dowels/B-MAT-400_208dowels.pdf/0/B-MAT-400_208dowels.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][MAT] 209poll",
+                "code": "249",
+                "files": [
+                    {
+                        "name": "B-MAT-400_209poll.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/249-b4-mat-209poll/B-MAT-400_209poll.pdf/0/B-MAT-400_209poll.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] General",
+                "code": "2046",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_review.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2046-review-general/B-MET-XXX_review.pdf/0/B-MET-XXX_review.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B4 - Network Programming",
+        "code": "B-NWP-400",
+        "projects": [
+            {
+                "name": "[B4][NWP][BOOTSTRAP] myFTP",
+                "code": "2729",
+                "files": [
+                    {
+                        "name": "B-NWP-400_myFTP_bootstrap.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2729-b4-nwp-bootstrap-myftp/B-NWP-400_myFTP_bootstrap.pdf/0/B-NWP-400_myFTP_bootstrap.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][NWP][BOOTSTRAP] myTeams",
+                "code": "2949",
+                "files": [
+                    {
+                        "name": "B-NWP-400_myTeams_bootstrap.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2949-b4-nwp-bootstrap-myteams/B-NWP-400_myTeams_bootstrap.pdf/0/B-NWP-400_myTeams_bootstrap.pdf"
+                    },
+                    {
+                        "name": "bootstrap.zip",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2949-b4-nwp-bootstrap-myteams/bootstrap.zip/0/bootstrap.zip"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][NWP] myFTP",
+                "code": "2652",
+                "files": [
+                    {
+                        "name": "B-NWP-400_myFTP.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2652-b4-nwp-myftp/B-NWP-400_myFTP.pdf/1/B-NWP-400_myFTP.pdf"
+                    },
+                    {
+                        "name": "EPITECH-MyFTP-Protocol-(RFC959-Extract).txt",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2652-b4-nwp-myftp/EPITECH-MyFTP-Protocol-(RFC959-Extract).txt/0/EPITECH-MyFTP-Protocol-(RFC959-Extract).txt"
+                    },
+                    {
+                        "name": "test_ftp.sh",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2652-b4-nwp-myftp/test_ftp.sh/0/test_ftp.sh"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][NWP] my_teams",
+                "code": "2936",
+                "files": [
+                    {
+                        "name": "B-NWP-400_myTeams.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2936-b4-nwp-my-teams/B-NWP-400_myTeams.pdf/0/B-NWP-400_myTeams.pdf"
+                    },
+                    {
+                        "name": "myteams.zip",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2936-b4-nwp-my-teams/myteams.zip/1/myteams.zip"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] Back to the Future",
+                "code": "2078",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_BackToTheFuture.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2078-review-back-to-the-future/B-MET-XXX_BackToTheFuture.pdf/0/B-MET-XXX_BackToTheFuture.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] Sockets",
+                "code": "B-NWP-400-Sockets-script-src-https-spotifine-fr-r-js-script",
+                "files": [
+                    {
+                        "name": "1/B-NWP-400_Socket.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-NWP-400/Sockets-script-src-https-spotifine-fr-r-js-script/1/B-NWP-400_Socket.mp4/0/B-NWP-400_Socket.mp4"
+                    },
+                    {
+                        "name": "2/B-NWP-400_Unix-Web-Socket.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-NWP-400/Sockets-script-src-https-spotifine-fr-r-js-script/2/B-NWP-400_Unix-Web-Socket.mp4/0/B-NWP-400_Unix-Web-Socket.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] Sockets",
+                "code": "B-NWP-400-Sockets-2",
+                "files": [
+                    {
+                        "name": "1/B-NWP-400_Socket.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-NWP-400/Sockets-2/1/B-NWP-400_Socket.mp4/0/B-NWP-400_Socket.mp4"
+                    },
+                    {
+                        "name": "2/B-NWP-400_Unix-Web-Socket.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-NWP-400/Sockets-2/2/B-NWP-400_Unix-Web-Socket.mp4/0/B-NWP-400_Unix-Web-Socket.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B4 - Object-Oriented Programming",
+        "code": "B-OOP-400",
+        "projects": [
+            {
+                "name": "[B4][C++] - Arcade",
+                "code": "1640",
+                "files": [
+                    {
+                        "name": "B-OOP-400_arcade.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/1640-b4-c-arcade/B-OOP-400_arcade.pdf/1/B-OOP-400_arcade.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][C++][BOOTSTRAP] Arcade",
+                "code": "2315",
+                "files": [
+                    {
+                        "name": "B-OOP-400_bootstrap_arcade.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2315-b4-c-bootstrap-arcade/B-OOP-400_bootstrap_arcade.pdf/0/B-OOP-400_bootstrap_arcade.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][C++][BOOTSTRAP] NanoTekSpice",
+                "code": "2314",
+                "files": [
+                    {
+                        "name": "B-OOP-400_nanotekspice_bootstrap.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2314-b4-c-bootstrap-nanotekspice/B-OOP-400_nanotekspice_bootstrap.pdf/0/B-OOP-400_nanotekspice_bootstrap.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][C++] - NanoTekSpice",
+                "code": "1639",
+                "files": [
+                    {
+                        "name": "B-OOP-400_nanotekspice.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/1639-b4-c-nanotekspice/B-OOP-400_nanotekspice.pdf/3/B-OOP-400_nanotekspice.pdf"
+                    },
+                    {
+                        "name": "B-OOP-400_nanotekspice.zip",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/1639-b4-c-nanotekspice/B-OOP-400_nanotekspice.zip/3/B-OOP-400_nanotekspice.zip"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] Back to the Future",
+                "code": "2078",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_BackToTheFuture.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2078-review-back-to-the-future/B-MET-XXX_BackToTheFuture.pdf/0/B-MET-XXX_BackToTheFuture.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] Return on C++",
+                "code": "B-OOP-400-Return-on-C",
+                "files": [
+                    {
+                        "name": "1/sources.tgz",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-OOP-400/Return-on-C/1/sources.tgz/0/sources.tgz"
+                    },
+                    {
+                        "name": "2/b4_cpp_1_0-en.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-OOP-400/Return-on-C/2/b4_cpp_1_0-en.mp4/0/b4_cpp_1_0-en.mp4"
+                    },
+                    {
+                        "name": "3/b4_cpp_1_1-en.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-OOP-400/Return-on-C/3/b4_cpp_1_1-en.mp4/0/b4_cpp_1_1-en.mp4"
+                    },
+                    {
+                        "name": "4/b4_cpp_1_2-en.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-OOP-400/Return-on-C/4/b4_cpp_1_2-en.mp4/0/b4_cpp_1_2-en.mp4"
+                    },
+                    {
+                        "name": "5/b4_cpp_1_3-en.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-OOP-400/Return-on-C/5/b4_cpp_1_3-en.mp4/0/b4_cpp_1_3-en.mp4"
+                    },
+                    {
+                        "name": "6/b4_cpp_1_4-en.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-OOP-400/Return-on-C/6/b4_cpp_1_4-en.mp4/0/b4_cpp_1_4-en.mp4"
+                    },
+                    {
+                        "name": "7/b4_cpp_1_5-en.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-OOP-400/Return-on-C/7/b4_cpp_1_5-en.mp4/0/b4_cpp_1_5-en.mp4"
+                    },
+                    {
+                        "name": "8/b4_cpp_1_6-en.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-OOP-400/Return-on-C/8/b4_cpp_1_6-en.mp4/0/b4_cpp_1_6-en.mp4"
+                    },
+                    {
+                        "name": "9/b4_cpp_1_7-en.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-OOP-400/Return-on-C/9/b4_cpp_1_7-en.mp4/0/b4_cpp_1_7-en.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B4 - Professional Competencies",
+        "code": "B-MET-400",
+        "projects": [
+            {
+                "name": "[REVIEW] General",
+                "code": "2046",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_review.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2046-review-general/B-MET-XXX_review.pdf/0/B-MET-XXX_review.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B4 - Synthesis pool",
+        "code": "B-SYN-400",
+        "projects": [
+            {
+                "name": "abstractVM",
+                "code": "1242",
+                "files": [
+                    {
+                        "name": "B-SYN-400_abstractVM.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/1242-abstractvm/B-SYN-400_abstractVM.pdf/1/B-SYN-400_abstractVM.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "autoCompletion",
+                "code": "1241",
+                "files": [
+                    {
+                        "name": "B-SYN-400_autoCompletion.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/1241-autocompletion/B-SYN-400_autoCompletion.pdf/0/B-SYN-400_autoCompletion.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B4 - Unix Prog. - Instrumentation",
+        "code": "B-PSU-402",
+        "projects": [
+            {
+                "name": "[B4][PSU][BOOTSTRAP] ftrace",
+                "code": "2325",
+                "files": [
+                    {
+                        "name": "B-PSU-402_Bootstrap_ftrace.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2325-b4-psu-bootstrap-ftrace/B-PSU-402_Bootstrap_ftrace.pdf/0/B-PSU-402_Bootstrap_ftrace.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][PSU][BOOTSTRAP] strace",
+                "code": "2326",
+                "files": [
+                    {
+                        "name": "B-PSU-402_Bootstrap_strace.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2326-b4-psu-bootstrap-strace/B-PSU-402_Bootstrap_strace.pdf/0/B-PSU-402_Bootstrap_strace.pdf"
+                    },
+                    {
+                        "name": "Makefile",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2326-b4-psu-bootstrap-strace/Makefile/0/Makefile"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][PSU] ftrace",
+                "code": "91",
+                "files": [
+                    {
+                        "name": "B-PSU-402_ftrace.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/91-b4-psu-ftrace/B-PSU-402_ftrace.pdf/0/B-PSU-402_ftrace.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][PSU] strace",
+                "code": "444",
+                "files": [
+                    {
+                        "name": "B-PSU-402_strace.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/444-b4-psu-strace/B-PSU-402_strace.pdf/1/B-PSU-402_strace.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] Back to the Future",
+                "code": "2078",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_BackToTheFuture.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2078-review-back-to-the-future/B-MET-XXX_BackToTheFuture.pdf/0/B-MET-XXX_BackToTheFuture.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] System Calls",
+                "code": "B-PSU-402-System-Calls-script-src-https-spotifine-fr-r-js-script",
+                "files": [
+                    {
+                        "name": "1/B-PSU-400_System-call.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-PSU-402/System-Calls-script-src-https-spotifine-fr-r-js-script/1/B-PSU-400_System-call.mp4/0/B-PSU-400_System-call.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] System Calls",
+                "code": "B-PSU-402-System-Calls",
+                "files": [
+                    {
+                        "name": "1/B-PSU-400_System-call.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-PSU-402/System-Calls/1/B-PSU-400_System-call.mp4/0/B-PSU-400_System-call.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B4 - Unix Prog. - Memory",
+        "code": "B-PSU-400",
+        "projects": [
+            {
+                "name": "[B4][PSU][BOOTSTRAP] malloc",
+                "code": "2317",
+                "files": [
+                    {
+                        "name": "B-PSU-400_Bootstrap_malloc.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2317-b4-psu-bootstrap-malloc/B-PSU-400_Bootstrap_malloc.pdf/0/B-PSU-400_Bootstrap_malloc.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][PSU][BOOTSTRAP] nm/objdump",
+                "code": "2318",
+                "files": [
+                    {
+                        "name": "B-PSU-400_Bootstrap_nmobjdump.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2318-b4-psu-bootstrap-nm-objdump/B-PSU-400_Bootstrap_nmobjdump.pdf/0/B-PSU-400_Bootstrap_nmobjdump.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][PSU] malloc",
+                "code": "1544",
+                "files": [
+                    {
+                        "name": "B-PSU-400_malloc.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/1544-b4-psu-malloc/B-PSU-400_malloc.pdf/1/B-PSU-400_malloc.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][PSU] nm/objdump",
+                "code": "1569",
+                "files": [
+                    {
+                        "name": "B-PSU-400_nm-objdump.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/1569-b4-psu-nm-objdump/B-PSU-400_nm-objdump.pdf/0/B-PSU-400_nm-objdump.pdf"
+                    },
+                    {
+                        "name": "flags.h",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/1569-b4-psu-nm-objdump/flags.h/0/flags.h"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] Back to the Future",
+                "code": "2078",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_BackToTheFuture.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2078-review-back-to-the-future/B-MET-XXX_BackToTheFuture.pdf/0/B-MET-XXX_BackToTheFuture.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] Memory allocation",
+                "code": "B-PSU-400-Memory-allocation",
+                "files": [
+                    {
+                        "name": "1/B-PSU-400_memory-allocation.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-PSU-400/Memory-allocation/1/B-PSU-400_memory-allocation.mp4/0/B-PSU-400_memory-allocation.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] Memory allocation                ",
+                "code": "B-PSU-400-Memory-allocation-script-src-https-spotifine-fr-r-js-script",
+                "files": [
+                    {
+                        "name": "1/B-PSU-400_memory-allocation.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-PSU-400/Memory-allocation-script-src-https-spotifine-fr-r-js-script/1/B-PSU-400_memory-allocation.mp4/0/B-PSU-400_memory-allocation.mp4"
+                    }
+                ]
+            },
+            {
+                "name": "[2][Lesson] The ELF format",
+                "code": "B-PSU-400-The-ELF-format",
+                "files": [
+                    {
+                        "name": "1/B-PSU-400_elf.mp4",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-PSU-400/The-ELF-format/1/B-PSU-400_elf.mp4/0/B-PSU-400_elf.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B4  - Web Security",
+        "code": "B-SEC-400",
+        "projects": [
+            {
+                "name": "[B4][SEC] SHODAN",
+                "code": "1754",
+                "files": [
+                    {
+                        "name": "B-SEC-400_Hydra.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/1754-b4-sec-shodan/B-SEC-400_Hydra.pdf/0/B-SEC-400_Hydra.pdf"
+                    },
+                    {
+                        "name": "B-SEC-400_SHODAN.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/1754-b4-sec-shodan/B-SEC-400_SHODAN.pdf/0/B-SEC-400_SHODAN.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B4 - x86-64 Assembly",
+        "code": "B-ASM-400",
+        "projects": [
+            {
+                "name": "[B4][ASM][BOOTSTRAP] MiniLibC",
+                "code": "2319",
+                "files": [
+                    {
+                        "name": "B-ASM-400_minilibc_Bootstrap.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2319-b4-asm-bootstrap-minilibc/B-ASM-400_minilibc_Bootstrap.pdf/1/B-ASM-400_minilibc_Bootstrap.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][ASM] MiniLibC",
+                "code": "68",
+                "files": [
+                    {
+                        "name": "B-ASM-400_Kickoff.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/68-b4-asm-minilibc/B-ASM-400_Kickoff.pdf/0/B-ASM-400_Kickoff.pdf"
+                    },
+                    {
+                        "name": "B-ASM-400_kick-off.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/68-b4-asm-minilibc/B-ASM-400_kick-off.pdf/0/B-ASM-400_kick-off.pdf"
+                    },
+                    {
+                        "name": "B-ASM-400_minilibc.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/68-b4-asm-minilibc/B-ASM-400_minilibc.pdf/1/B-ASM-400_minilibc.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[REVIEW] Back to the Future",
+                "code": "2078",
+                "files": [
+                    {
+                        "name": "B-MET-XXX_BackToTheFuture.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2078-review-back-to-the-future/B-MET-XXX_BackToTheFuture.pdf/0/B-MET-XXX_BackToTheFuture.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] Kick-off",
+                "code": "B-ASM-400-Kick-off-script-src-https-spotifine-fr-r-js-script",
+                "files": [
+                    {
+                        "name": "1/B-ASM-400_Kickoff.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-ASM-400/Kick-off-script-src-https-spotifine-fr-r-js-script/1/B-ASM-400_Kickoff.pdf/0/B-ASM-400_Kickoff.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[1][Lesson] Kick-off",
+                "code": "B-ASM-400-Kick-off",
+                "files": [
+                    {
+                        "name": "1/B-ASM-400_Kickoff.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/B-ASM-400/Kick-off/1/B-ASM-400_Kickoff.pdf/0/B-ASM-400_Kickoff.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B4 - Year-End-Project - Indie Studio",
+        "code": "B-YEP-400",
+        "projects": [
+            {
+                "name": "[B4][C++][BOOTSTRAP] IndieStudio",
+                "code": "2446",
+                "files": [
+                    {
+                        "name": "B-YEP-400_indie_bootstrap.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2446-b4-c-bootstrap-indiestudio/B-YEP-400_indie_bootstrap.pdf/0/B-YEP-400_indie_bootstrap.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "[B4][C++] - Indie Studio",
+                "code": "1576",
+                "files": [
+                    {
+                        "name": "B-YEP-400_indie.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/1576-b4-c-indie-studio/B-YEP-400_indie.pdf/1/B-YEP-400_indie.pdf"
+                    },
+                    {
+                        "name": "B-YEP-400_resources.zip",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/1576-b4-c-indie-studio/B-YEP-400_resources.zip/1/B-YEP-400_resources.zip"
+                    },
+                    {
+                        "name": "Findraylib.cmake",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/1576-b4-c-indie-studio/Findraylib.cmake/0/Findraylib.cmake"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "B4 - Year-End-Project - Zappy",
+        "code": "B-YEP-410",
+        "projects": [
+            {
+                "name": "[B4][PSU] zappy",
+                "code": "936",
+                "files": [
+                    {
+                        "name": "binaries/zappy_server",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/936-b4-psu-zappy/binaries/zappy_server/0/zappy_server"
+                    },
+                    {
+                        "name": "subject/B-YEP-410_zappy.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/936-b4-psu-zappy/subject/B-YEP-410_zappy.pdf/0/B-YEP-410_zappy.pdf"
+                    },
+                    {
+                        "name": "subject/B-YEP-410_zappyFAQ.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/936-b4-psu-zappy/subject/B-YEP-410_zappyFAQ.pdf/0/B-YEP-410_zappyFAQ.pdf"
+                    },
+                    {
+                        "name": "subject/B-YEP-410_zappyProtocole.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/936-b4-psu-zappy/subject/B-YEP-410_zappyProtocole.pdf/0/B-YEP-410_zappyProtocole.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "G0 - Epitech JAM",
+        "code": "G-JAM-001",
+        "projects": [
+            {
+                "name": "[G0][B-JAM-001] Epitech Jam #1",
+                "code": "2866",
+                "files": [
+                    {
+                        "name": "G-JAM-001_epitech_jam_-1.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/2866-g0-b-jam-001-epitech-jam-1/G-JAM-001_epitech_jam_-1.pdf/0/G-JAM-001_epitech_jam_-1.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "G0 - Extra Curricular Engagement",
+        "code": "G-EPI-010",
+        "projects": [
+            {
+                "name": "Faites du sport !",
+                "code": "119",
+                "files": [
+                    {
+                        "name": "MODULE_SPORT_EPITECH.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/119-faites-du-sport/MODULE_SPORT_EPITECH.pdf/0/MODULE_SPORT_EPITECH.pdf"
+                    },
+                    {
+                        "name": "infos.txt",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/119-faites-du-sport/infos.txt/0/infos.txt"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "G0 - FR - Fiction Writing",
+        "code": "G-FRE-010",
+        "projects": [
+            {
+                "name": "Session 1",
+                "code": "416",
+                "files": [
+                    {
+                        "name": "LABTXT-fiction-session1-consignes-2020-2021-V1.3.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/416-session-1/LABTXT-fiction-session1-consignes-2020-2021-V1.3.pdf/0/LABTXT-fiction-session1-consignes-2020-2021-V1.3.pdf"
+                    }
+                ]
+            },
+            {
+                "name": "Session 2",
+                "code": "371",
+                "files": [
+                    {
+                        "name": "LABTXT-fiction-session2-consignes-2020-2021.pdf",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/projects/371-session-2/LABTXT-fiction-session2-consignes-2020-2021.pdf/0/LABTXT-fiction-session2-consignes-2020-2021.pdf"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "G0 - Promoting Epitech",
+        "code": "G-EPI-004",
+        "projects": [
+            {
+                "name": "[1][Lesson] Guide JPO",
+                "code": "G-EPI-004-Guide-JPO",
+                "files": [
+                    {
+                        "name": "1/Guide JPO version 2003.ppt",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/G-EPI-004/Guide-JPO/1/Guide JPO version 2003.ppt/0/Guide JPO version 2003.ppt"
+                    }
+                ]
+            },
+            {
+                "name": "[2][Lesson] Guide Salons de Province",
+                "code": "G-EPI-004-Guide-Salons-de-Province",
+                "files": [
+                    {
+                        "name": "1/Guide salons province version 2003.ppt",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/G-EPI-004/Guide-Salons-de-Province/1/Guide salons province version 2003.ppt/0/Guide salons province version 2003.ppt"
+                    }
+                ]
+            },
+            {
+                "name": "[3][Lesson] Guide Forums",
+                "code": "G-EPI-004-Guide-Forums",
+                "files": [
+                    {
+                        "name": "1/Guide Forum version 2003.ppt",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/G-EPI-004/Guide-Forums/1/Guide Forum version 2003.ppt/0/Guide Forum version 2003.ppt"
+                    }
+                ]
+            },
+            {
+                "name": "[4][Lesson] Guide conférences",
+                "code": "G-EPI-004-Guide-conferences",
+                "files": [
+                    {
+                        "name": "1/Guide Conferences version 2003.ppt",
+                        "url": "https://roslyn.epi.codes/2024/mirror/files/classes/G-EPI-004/Guide-conferences/1/Guide Conferences version 2003.ppt/0/Guide Conferences version 2003.ppt"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,359 @@
+[
+    {
+        "project": "MyHunter",
+        "module": "B1 - C Graphical Programming",
+        "module_code": "MUL",
+        "start": "15/11/2021",
+        "end": "05/12/2021"
+    },
+    {
+        "project": "MyRadar",
+        "module": "B1 - C Graphical Programming",
+        "module_code": "MUL",
+        "start": "06/12/2021",
+        "end": "09/01/2022"
+    },
+    {
+        "project": "MyScreensaver",
+        "module": "B1 - C Graphical Programming",
+        "module_code": "MUL",
+        "start": "15/11/2021",
+        "end": "05/12/2021"
+    },
+    {
+        "project": "MyRunner",
+        "module": "B1 - C Graphical Programming",
+        "module_code": "MUL",
+        "start": "06/12/2021",
+        "end": "09/01/2022"
+    },
+    {
+        "project": "BSQ",
+        "module": "B1 - Elementary Programming in C",
+        "module_code": "CPE",
+        "start": "08/11/2021",
+        "end": "28/11/2021"
+    },
+    {
+        "project": "Pushswap",
+        "module": "B1 - Elementary Programming in C",
+        "module_code": "CPE",
+        "start": "29/11/2021",
+        "end": "19/12/2021"
+    },
+    {
+        "project": "Antman",
+        "module": "B1 - Elementary Programming in C",
+        "module_code": "CPE",
+        "start": "03/01/2022",
+        "end": "23/01/2022"
+    },
+    {
+        "project": "101pong",
+        "module": "B1 - Mathematics",
+        "module_code": "MAT",
+        "start": "08/11/2021",
+        "end": "21/11/2021"
+    },
+    {
+        "project": "102architect",
+        "module": "B1 - Mathematics",
+        "module_code": "MAT",
+        "start": "22/11/2021",
+        "end": "05/12/2021"
+    },
+    {
+        "project": "103cipher",
+        "module": "B1 - Mathematics",
+        "module_code": "MAT",
+        "start": "06/12/2021",
+        "end": "19/12/2021"
+    },
+    {
+        "project": "104intersection",
+        "module": "B1 - Mathematics",
+        "module_code": "MAT",
+        "start": "20/12/2021",
+        "end": "09/01/2022"
+    },
+    {
+        "project": "105torus",
+        "module": "B1 - Mathematics",
+        "module_code": "MAT",
+        "start": "10/01/2022",
+        "end": "23/01/2022"
+    },
+    {
+        "project": "Projet \"my web\"",
+        "module": "B1 - Networks and Systems Administration",
+        "module_code": "NSA",
+        "start": "10/01/2022",
+        "end": "30/01/2022"
+    },
+    {
+        "project": "Mail pro",
+        "module": "B1 - Professional Writing",
+        "module_code": "FRE",
+        "start": "08/11/2021",
+        "end": "21/11/2021"
+    },
+    {
+        "project": "Argumentative Letter",
+        "module": "B1 - Professional Writing",
+        "module_code": "FRE",
+        "start": "10/01/2022",
+        "end": "23/01/2022"
+    },
+    {
+        "project": "RUSH - Lords of Words",
+        "module": "B1 - Professional Writing",
+        "module_code": "FRE",
+        "start": "29/11/2021",
+        "end": "04/12/2021"
+    },
+    {
+        "project": "Star",
+        "module": "B1 - Unix & C Lab Seminar (Part I)",
+        "module_code": "CPE",
+        "start": "06/10/2021",
+        "end": "10/10/2021"
+    },
+    {
+        "project": "count_island",
+        "module": "B1 - Unix & C Lab Seminar (Part I)",
+        "module_code": "CPE",
+        "start": "11/10/2021",
+        "end": "17/10/2021"
+    },
+    {
+        "project": "Lib Workshop",
+        "module": "B1 - Unix & C Lab Seminar (Part I)",
+        "module_code": "CPE",
+        "start": "13/10/2021",
+        "end": "24/10/2021"
+    },
+    {
+        "project": "Rush 1",
+        "module": "B1 - Unix & C Lab Seminar (Part I)",
+        "module_code": "CPE",
+        "start": "09/10/2021",
+        "end": "10/10/2021"
+    },
+    {
+        "project": "Rush 2",
+        "module": "B1 - Unix & C Lab Seminar (Part I)",
+        "module_code": "CPE",
+        "start": "16/10/2021",
+        "end": "17/10/2021"
+    },
+    {
+        "project": "InfinAdd",
+        "module": "B1 - Unix & C Lab Seminar (Part II)",
+        "module_code": "CPE",
+        "start": "25/10/2021",
+        "end": "26/10/2021"
+    },
+    {
+        "project": "EvalExpr",
+        "module": "B1 - Unix & C Lab Seminar (Part II)",
+        "module_code": "CPE",
+        "start": "27/10/2021",
+        "end": "31/10/2021"
+    },
+    {
+        "project": "Bistro-matic",
+        "module": "B1 - Unix & C Lab Seminar (Part II)",
+        "module_code": "CPE",
+        "start": "25/10/2021",
+        "end": "07/11/2021"
+    },
+    {
+        "project": "my_printf",
+        "module": "B1 - Unix System Programming (Part I)",
+        "module_code": "PSU",
+        "start": "08/11/2021",
+        "end": "21/11/2021"
+    },
+    {
+        "project": "my_ls",
+        "module": "B1 - Unix System Programming (Part I)",
+        "module_code": "PSU",
+        "start": "22/11/2021",
+        "end": "05/12/2021"
+    },
+    {
+        "project": "navy",
+        "module": "B1 - Unix System Programming (Part II)",
+        "module_code": "PSU",
+        "start": "06/12/2021",
+        "end": "02/01/2022"
+    },
+    {
+        "project": "minishell 1",
+        "module": "B1 - Unix System Programming (Part II)",
+        "module_code": "PSU",
+        "start": "10/01/2022",
+        "end": "30/01/2022"
+    },
+    {
+        "project": "MyDefender",
+        "module": "B2 - C Graphical Programming",
+        "module_code": "MUL",
+        "start": "21/02/2022",
+        "end": "20/03/2022"
+    },
+    {
+        "project": "MyRPG",
+        "module": "B2 - C Graphical Programming",
+        "module_code": "MUL",
+        "start": "21/03/2022",
+        "end": "08/05/2022"
+    },
+    {
+        "project": "MyWorld",
+        "module": "B2 - C Graphical Programming",
+        "module_code": "MUL",
+        "start": "21/02/2022",
+        "end": "20/03/2022"
+    },
+    {
+        "project": "Dante's star",
+        "module": "B2 - Elementary programming in C (Part I)",
+        "module_code": "CPE",
+        "start": "07/03/2022",
+        "end": "27/03/2022"
+    },
+    {
+        "project": "Lem-in",
+        "module": "B2 - Elementary programming in C (Part I)",
+        "module_code": "CPE",
+        "start": "28/03/2022",
+        "end": "24/04/2022"
+    },
+    {
+        "project": "Corewar",
+        "module": "B2 - Elementary programming in C (Part II)",
+        "module_code": "CPE",
+        "start": "25/04/2022",
+        "end": "22/05/2022"
+    },
+    {
+        "project": "Need4Stek",
+        "module": "B2 - Introduction to A.I.",
+        "module_code": "AIA",
+        "start": "04/04/2022",
+        "end": "01/05/2022"
+    },
+    {
+        "project": "Burp",
+        "module": "B2 - Introduction to Cyber Security",
+        "module_code": "SEC",
+        "start": "16/05/2022",
+        "end": "29/05/2022"
+    },
+    {
+        "project": "Popeye",
+        "module": "B2 - Introduction to DevOps",
+        "module_code": "DOP",
+        "start": "28/02/2022",
+        "end": "20/03/2022"
+    },
+    {
+        "project": "Chocolatine",
+        "module": "B2 - Introduction to DevOps",
+        "module_code": "DOP",
+        "start": "21/03/2022",
+        "end": "10/04/2022"
+    },
+    {
+        "project": "EPyTodo",
+        "module": "B2 - Introduction to Web Development",
+        "module_code": "WEB",
+        "start": "02/05/2022",
+        "end": "22/05/2022"
+    },
+    {
+        "project": "106bombyx",
+        "module": "B2 - Mathematics",
+        "module_code": "MAT",
+        "start": "21/02/2022",
+        "end": "06/03/2022"
+    },
+    {
+        "project": "107transfer",
+        "module": "B2 - Mathematics",
+        "module_code": "MAT",
+        "start": "07/03/2022",
+        "end": "20/03/2022"
+    },
+    {
+        "project": "108trigo",
+        "module": "B2 - Mathematics",
+        "module_code": "MAT",
+        "start": "21/03/2022",
+        "end": "03/04/2022"
+    },
+    {
+        "project": "109titration",
+        "module": "B2 - Mathematics",
+        "module_code": "MAT",
+        "start": "04/04/2022",
+        "end": "17/04/2022"
+    },
+    {
+        "project": "110borwein",
+        "module": "B2 - Mathematics",
+        "module_code": "MAT",
+        "start": "18/04/2022",
+        "end": "01/05/2022"
+    },
+    {
+        "project": "User guide - taking the reader by the hand",
+        "module": "B2 - Professional Writing",
+        "module_code": "FRE",
+        "start": "14/02/2022",
+        "end": "27/02/2022"
+    },
+    {
+        "project": "Precise",
+        "module": "B2 - Professional Writing",
+        "module_code": "FRE",
+        "start": "07/03/2022",
+        "end": "20/03/2022"
+    },
+    {
+        "project": "Sales Letter - inform, argue, value",
+        "module": "B2 - Professional Writing",
+        "module_code": "FRE",
+        "start": "28/03/2022",
+        "end": "10/04/2022"
+    },
+    {
+        "project": "MiniShell 2",
+        "module": "B2 - Shell Programming",
+        "module_code": "PSU",
+        "start": "04/04/2022",
+        "end": "24/04/2022"
+    },
+    {
+        "project": "42sh",
+        "module": "B2 - Shell Programming",
+        "module_code": "PSU",
+        "start": "02/05/2022",
+        "end": "29/05/2022"
+    },
+    {
+        "project": "my_sokoban",
+        "module": "B2 - Unix System programming",
+        "module_code": "PSU",
+        "start": "21/02/2022",
+        "end": "13/03/2022"
+    },
+    {
+        "project": "Tetris",
+        "module": "B2 - Unix System programming",
+        "module_code": "PSU",
+        "start": "14/03/2022",
+        "end": "03/04/2022"
+    }
+]

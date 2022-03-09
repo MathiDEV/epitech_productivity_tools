@@ -1,0 +1,9 @@
+{
+    "width": 120,
+    "height": 16,
+    "mode": "horizontal",
+    "sprites": {
+        "1":"#9df25c",
+        "2":"#f5a638"
+    }
+}
