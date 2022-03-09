@@ -8,5 +8,15 @@ Here are some tools that I have developed to support you in your studies at Epit
 
 ## Summary
 
-- [Abricot Norminette (Contribution)](https://github.com/Just1truc/Abricot-Norminette)
-- [Clean Commit]()
+- [Abricot Norminette](https://github.com/Just1truc/Abricot-Norminette) _(Contribution)_ - The most advanced coding style checker.
+- [Clean Commit](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/clean_commit) - Helps you to format your commits.
+- [MyRepo](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/myrepo) - Initialize your repo with highly customizable settings.
+- [Project Subject](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/project_subjects) - A way to open a project subject from the command line.
+- [Terminal Timeline](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/terminal_timeline) - Your Epitech timeline in your terminal.
+- Checkers - Check your project with scripts (Functional tests)
+  - [Evalexpr](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/evalexpr)
+  - [Bistromatic](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/bistromatic)
+  - [Pushswap](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/pushswap)
+  - [Sokoban](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/sokoban)
+- [Runner Map](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/runner_map) - Map builder for my_runner (also works for Sokoban).
+
