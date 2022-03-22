@@ -1,7 +1,7 @@
 # Terminal Timeline
 Epitech Timeline in your favourite shell
 
-![Timeline Example](https://raw.githubusercontent.com/MathiDEV/terminal_timeline/main/timeline.png)
+![Timeline Example](https://raw.githubusercontent.com/MathiDEV/epitech_productivity_tools/main/terminal_timeline/timeline.png)
 
 ## Usage
 ```
