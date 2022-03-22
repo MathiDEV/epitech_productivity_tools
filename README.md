@@ -6,7 +6,7 @@
 
 Here are some tools that I have developed to support you in your studies at Epitech.
 
-> The biggest tool i've ever made is comming...
+> The biggest tool I've ever made is comming...
 
 ## Summary
 
