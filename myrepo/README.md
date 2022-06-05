@@ -20,7 +20,7 @@ That's it !
 To init your repo, open a command prompt at it root and run
 ```repo```
 
-![Command Prompt Screenshot](https://github.com/MathiDEV/myrepo/blob/main/myRepo.jpg?raw=true)
+![Command Prompt Screenshot](https://github.com/MathiDEV/epitech_productivity_tools/blob/main/myrepo/myRepo.jpg?raw=true)
 
 
 This will ask you a few questions and at the end you will have your repo.
@@ -36,7 +36,7 @@ Your repo will include:
 - (Optional) GitHub actions
 
 
-![Output files](https://github.com/MathiDEV/myrepo/blob/main/files.jpg?raw=true)
+![Output files](https://github.com/MathiDEV/epitech_productivity_tools/blob/main/myrepo/files.jpg?raw=true)
 ## It is not custom enough for me...
 I am sorry ! For reasons of simplicity and visibility, this code is not the easiest to read ... However, it is not very complicated to modify. For example, if you want to add a new rule to .gitignore, just edit the variable "gitignore"
 
