@@ -1,0 +1,13 @@
+{
+    "name": "IntraStyled",
+    "version": "0",
+    "description": "",
+    "manifest_version": 2,
+    "permissions": ["https://intra.epitech.eu/*"],
+    "content_scripts": [
+      {
+          "matches": [ "https://intra.epitech.eu/*"],
+          "css": ["styles.css"]
+      }
+    ]
+  }
