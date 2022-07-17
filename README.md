@@ -20,6 +20,7 @@ Here are some tools that I have developed to support you in your studies at Epit
   - [Sokoban](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/checkers/sokoban)
 - [Runner Map](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/runner_map) - Map builder for my_runner (also works for Sokoban).
 - [Full GPA](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/fullgpa) - Browser extension to see your GPA with a much more precise value.
+- [Flat Intra](https://github.com/MathiDEV/epitech_productivity_tools/tree/main/flatintra) - Lightweight browser extension to improve your intranet style.
 
 Some projects are maybe deprecated, I'll try to keep it up to date, depending on my free time.
 
