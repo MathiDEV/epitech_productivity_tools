@@ -27,6 +27,8 @@ Go to `chrome://extensions` and drag-and-drop the zip file.
 
 You're done !
 
+> IMPORTANT !! Always make sure to manage allowed domains to don't give invonlountarly access to your data !
+
 ## Mozilla users...
 
 I'll make a manifest for you soon :)
