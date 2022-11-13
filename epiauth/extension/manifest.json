@@ -1,0 +1,26 @@
+{
+    "name": "EpiAuth",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": [
+                "http://*/*",
+                "https://*/*"
+            ],
+            "js": [
+                "epiauth.js"
+            ]
+        }
+    ],
+    "background": {
+        "service_worker": "cookies.js"
+    },
+    "host_permissions": [
+        "*://*.intra.epitech.eu/"
+      ],
+    "permissions": [
+        "cookies"
+    ],
+    "action": {}
+}

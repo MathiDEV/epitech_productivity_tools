@@ -1,6 +1,6 @@
-# Full GPA Chrome extension
+# Flat intra
 
-A chrome extension to see your GPA with a much more precise value.
+Flat intranet extension transform your EPITECH intranet.
 
  ## Installation
  
