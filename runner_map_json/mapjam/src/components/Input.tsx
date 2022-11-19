@@ -3,13 +3,13 @@ import { ChangeEvent } from "react";
 import { Map, MapTile } from "../dto/map";
 import { Setter } from "../dto/setter";
 
-export default function FileInput({ setter }: { setter: Setter<Map | null> }) {
+export default function FileInput({ setter }: { setter: Setter<Map[] | null> }) {
     const handleImport = (event: ChangeEvent<HTMLInputElement>) => {
         const file = event.target.files?.item(0);
         if (file) {
             const reader = new FileReader();
             reader.onload = (event) => {
-                const res: Map = JSON.parse(event.target?.result as string ?? "[]");
+                const res: Map[] = JSON.parse(event.target?.result as string ?? "[]");
                 setter(res);
             };
             reader.readAsText(file);

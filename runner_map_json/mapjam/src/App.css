@@ -8,7 +8,7 @@
   -ms-interpolation-mode: nearest-neighbor;
   scrollbar-width: none;
   -ms-overflow-style: none;
-  
+  user-select: none;
 }
 
 *::-webkit-scrollbar {

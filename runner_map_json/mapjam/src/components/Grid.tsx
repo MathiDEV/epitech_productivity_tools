@@ -59,20 +59,22 @@ const Tile = React.memo(function Tile({ tile, onClick }: { tile: MapTile, onClic
     )
 }, (prev, next) => prev.tile.id === next.tile.id);
 
-function GridCases({ gridState, brushState, mapState, discretBrush, tooltype, discretMap }: { gridState: State<MapTile[][]>, brushState: State<string | null>, mapState: State<Map | null>, discretBrush: React.MutableRefObject<string | null>, tooltype: React.MutableRefObject<Tool>, discretMap: React.MutableRefObject<Map> }) {
+function GridCases({ gridState, brushState, mapState, discretBrush, tooltype, discretMap, render }: { gridState: State<MapTile[][]>, brushState: State<string | null>, mapState: State<Map | null>, discretBrush: React.MutableRefObject<string | null>, tooltype: React.MutableRefObject<Tool>, discretMap: React.MutableRefObject<Map | null>, render: boolean }) {
     const [grid, setGrid] = gridState;
     const [brush, setBrush] = brushState;
     const [map, setMap] = mapState;
 
-    return (<Box display="flex" flexDir="column" gap="1px" flexWrap="wrap">
+    return (<Box display="flex" flexDir="column" gap={render ? "0px" : "1px"} flexWrap="wrap">
         {grid!.map((row, i) => (
-            <Box key={i} display="flex" gap="1px" flexWrap="nowrap">
+            <Box key={i} display="flex" gap={render ? "0px" : "1px"} flexWrap="nowrap">
                 {row.map((tile, j) => (
                     <Tile tile={tile} key={j} onClick={() => {
                         if (tooltype.current === "brush") {
-                            setCase(discretMap.current, j, i, discretBrush, setMap)
+                            setCase(discretMap.current!, j, i, discretBrush, setMap)
                         } else if (tooltype.current === "pot") {
-                            paintPot(discretMap.current, j, i, discretBrush, setMap, tile.id);
+                            paintPot(discretMap.current!, j, i, discretBrush, setMap, tile.id);
+                        } else if (tooltype.current === "picker") {
+                            setBrush(tile.id);
                         }
                     }} />
                 ))}
@@ -82,18 +84,14 @@ function GridCases({ gridState, brushState, mapState, discretBrush, tooltype, di
     </Box>)
 }
 
-export default function Grid({ mapState }: { mapState: State<Map | null> }) {
-    const [map, _setMap] = mapState;
-    const discretMap = useRef<Map>(map!);
+export default function Grid({ mapState, discretMap }: { mapState: State<Map | null>, discretMap: React.MutableRefObject<Map | null> }) {
+    const [map, setMap] = mapState;
     const [tooltype, _setTooltype] = useState<Tool>("brush");
     const discretTooltype = useRef<Tool>("brush");
     const [brush, _setBrush] = useState<string | null>(null);
     const discretBrush = useRef<string | null>(null);
     const [grid, setGrid] = useState<MapTile[][]>([]);
-
-    useEffect(() => {
-        setMap(map);
-    }, []);
+    const [render, setRender] = useState<boolean>(false);
 
     const setBrush = (id: string | null) => {
         discretBrush.current = id;
@@ -103,18 +101,6 @@ export default function Grid({ mapState }: { mapState: State<Map | null> }) {
     const setTooltype = (tool: Tool) => {
         discretTooltype.current = tool;
         _setTooltype(tool);
-    }
-
-    const setMap = (map: Map | null) => {
-        if (map) {
-            discretMap.current = map;
-            _setMap(map);
-        }
-    }
-
-    const handleExport = () => {
-        const fileContent = `data:text/json;charset=utf-8,${encodeURIComponent(JSON.stringify(discretMap.current))}`
-        console.log(fileContent);
     }
 
     useEffect(() => {
@@ -131,15 +117,15 @@ export default function Grid({ mapState }: { mapState: State<Map | null> }) {
         })
         setGrid(newGrid);
     }, [map])
+    if (!discretMap.current)
+        return null;
     return (
         <Box>
             <Box overflowX="scroll">
-                <GridCases gridState={[grid, setGrid]} brushState={[brush, setBrush]} mapState={[map, setMap]} discretMap={discretMap} discretBrush={discretBrush} tooltype={discretTooltype} />
+                <GridCases render={render} gridState={[grid, setGrid]} brushState={[brush, setBrush]} mapState={[map, setMap]} discretMap={discretMap} discretBrush={discretBrush} tooltype={discretTooltype} />
             </Box>
             <Toolbox brushState={[brush, setBrush]} toolState={[tooltype, setTooltype]} />
-            <Button onClick={handleExport}>
-                Export
-            </Button>
+            <Button m={3} colorScheme={render ? 'blue' : 'gray'} onClick={() => setRender(!render)}>Render</Button>
         </Box>
     )
 }

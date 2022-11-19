@@ -1,1 +1,1 @@
-export type Tool = "brush" | "pot"
+export type Tool = "brush" | "pot" | "picker"
