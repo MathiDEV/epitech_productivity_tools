@@ -28,8 +28,13 @@ function App() {
   }, [layers, selectedLayer]);
 
   const handleExport = () => {
-    const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(layers));
-    console.log(dataStr);
+    if (layers) {
+      const newLayers = [...layers];
+      newLayers[selectedLayer] = discretMap.current!;
+      const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(newLayers));
+      console.log(dataStr);
+      setLayers(newLayers);
+    }
   }
 
   return (
@@ -37,7 +42,7 @@ function App() {
       {map === null && <FileInput setter={setLayers} />}
       {map !== null && <Grid mapState={[map, setMap]} discretMap={discretMap} />}
       <Box display="flex" gap="0.5em" mx={3} mb={3}>
-        {layers && layers.map((layer, i) => (
+        {layers && layers.map((_, i) => (
           <Button
             colorScheme={i === selectedLayer ? "blue" : "gray"}
             key={i}
