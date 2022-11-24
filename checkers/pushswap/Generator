@@ -1,0 +1,36 @@
+#!/usr/bin/python3
+
+import random
+import sys
+
+nums, min, max = 0, 0, 0
+
+
+def generate_rand_nums(nums, min, max):
+    num_array = []
+    for i in range(nums):
+        num_array.append(random.randint(min, max))
+    return num_array
+
+
+def write_to_file(num_array):
+    with open("numbers.txt", 'w') as f:
+        for num in num_array:
+            f.write(str(num) + ' ')
+
+
+if __name__ == "__main__":
+    nums, min, max = 0, 0, 0
+    if (len(sys.argv) == 1):
+        nums, min, max = 500, -5000, 6000
+    elif (len(sys.argv) == 2):
+        nums, min, max = int(sys.argv[1]), -100000, 100000
+    elif (len(sys.argv) == 3):
+        nums, min, max = int(sys.argv[1]), int(sys.argv[2]), 100000
+    elif (len(sys.argv) == 4):
+        nums, min, max = int(sys.argv[1]), int(sys.argv[2]), int(sys.argv[3])
+    else:
+        print("Usage: ./ps_test [nums] [min] [max]")
+        exit(444)
+    value = generate_rand_nums(nums, min, max)
+    write_to_file(value)

@@ -1,0 +1,235 @@
+#!/usr/bin/python3
+
+import sys
+import os
+import json
+import time as t
+import random
+
+possible_instructions = ["sa", "sb", "ss", "pa",
+                         "pb", "ra", "rb", "rr", "rra", "rrb", "rrr"]
+
+
+def new_launch_gdb(list_args: list):
+    launch_settings = json.load(open("./.vscode/launch2.json"))
+    config_index = -1
+    for x, config in enumerate(launch_settings["configurations"]):
+        if config["name"] == "AUTO_TESTER":
+            config_index = x
+    args = []
+    for number in list_args:
+        args.append(str(number))
+    if config_index == -1:
+        launch_settings["configurations"].append(
+            launch_settings["configurations"][0])
+        config_index = len(launch_settings["configurations"]) - 1
+    launch_settings["configurations"][config_index]["args"] = args
+    json.dump(launch_settings, open("./.vscode/launch2.json", 'w'))
+    # Rename the file to launch.json.t
+    os.rename("./.vscode/launch.json", "./.vscode/launch.json.t")
+    os.rename("./.vscode/launch2.json", "./.vscode/launch.json")
+    os.rename("./.vscode/launch.json.t", "./.vscode/launch2.json")
+
+
+def trace_start(list_a, list_b):
+    with open("trace.txt", 'w') as f:
+        f.write("-----Start-----\n")
+        f.write(f"List A: {list_a}\n")
+        f.write(f"List B: {list_b}\n")
+        f.write("------------------------\n\n")
+
+
+def trace_end(list_a, list_b):
+    with open("trace.txt", 'a') as f:
+        f.write("-----End-----\n")
+        f.write(f"List A: {list_a}\n")
+        f.write(f"List B: {list_b}\n")
+        f.write("------------------------\n\n")
+
+
+def trace_error(operation, list_a, list_b):
+    with open("trace.txt", 'a') as f:
+        f.write(f"-----Error on operation-----\n")
+        f.write(f"Operation: {operation}\n")
+        f.write(f"List A: {list_a}\n")
+        f.write(f"List B: {list_b}\n")
+        f.write("------------------------\n\n")
+
+
+def trace_maker(list_a: list, list_b: list, operation: str):
+    # Write the state of the lists to a trace.txt file
+    with open("trace.txt", 'a') as f:
+        f.write("-----New operation-----\n")
+        f.write(f"Operation: {operation}\n")
+        f.write(f"List A: {list_a}\n")
+        f.write(f"List B: {list_b}\n")
+        f.write("------------------------\n\n")
+
+
+def progress_bar(current, total, bar_length=20):
+    percent = float(current) * 100 / total
+    arrow = '-' * int(percent/100 * bar_length - 1) + '>'
+    spaces = ' ' * (bar_length - len(arrow))
+
+    sys.stdout.write("\rPercent: [{0}] {1}%".format(
+        arrow + spaces, int(percent)))
+    sys.stdout.flush()
+
+
+def is_in_order(list: list):
+    for i in range(0, len(list) - 1):
+        if list[i] > list[i + 1]:
+            print(f"Error on step {i + 1}: {list[i]} > {list[i + 1]}")
+            return False
+    return True
+
+
+def s(stack_a):
+    if len(stack_a) >= 2:
+        stack_a[0], stack_a[1] = stack_a[1], stack_a[0]
+    return stack_a
+
+
+def p(stack_a, stack_b):
+    if len(stack_b) > 0:
+        stack_a.insert(0, stack_b.pop(0))
+    return [stack_a, stack_b]
+
+
+def r(stack_a):
+    if len(stack_a) > 0:
+        stack_a.append(stack_a.pop(0))
+    return stack_a
+
+
+def rr(stack_a: list):
+    if len(stack_a) > 0:
+        stack_a.insert(0, stack_a.pop(len(stack_a) - 1))
+    return stack_a
+
+
+def get_function(operation, list_a, list_b):
+    if operation == "sa":
+        list_a = s(list_a)
+    if operation == "sb":
+        list_b = s(list_b)
+    if operation == "pa":
+        list_a, list_b = p(list_a, list_b)
+    if operation == "pb":
+        list_b, list_a = p(list_b, list_a)
+    if operation == "ra":
+        list_a = r(list_a)
+    if operation == "rb":
+        list_b = r(list_b)
+    if operation == "rra":
+        list_a = rr(list_a)
+    if operation == "rrb":
+        list_b = rr(list_b)
+    if operation == "rr":
+        list_a = r(list_a)
+        list_b = r(list_b)
+    if operation == "rrr":
+        list_a = rr(list_a)
+        list_b = rr(list_b)
+    return [list_a, list_b]
+
+
+def execute_instruction(instructions, number_list):
+    saved_list = number_list
+    list_b = []
+    number_of_instructions = len(instructions.split(' '))
+    instructions_counter = 0
+    trace_start(number_list, list_b)
+    print(f"Executing {str(number_of_instructions)} instructions on The List")
+    for instruction in instructions.split(' '):
+        progress_bar(instructions_counter + 1, number_of_instructions)
+        instructions_counter += 1
+        if (instruction not in possible_instructions):
+            print(f"\nError: '{instruction}' is not a valid instruction")
+            trace_error(instruction, number_list, list_b)
+            new_launch_gdb(saved_list)
+            return 32
+        number_list, list_b = get_function(instruction, number_list, list_b)
+        trace_maker(number_list, list_b, instruction)
+    print("\n")
+    trace_end(number_list, list_b)
+    if (len(list_b) != 0):
+        print("Error: list b not empty")
+        new_launch_gdb(saved_list)
+        print("[ \033[91mKO\033[0m ]")
+    elif (is_in_order(number_list)):
+        print("The List is in order")
+        print("[ \033[92mOK\033[0m ]")
+    else:
+        print("The List is not in order")
+        print("[ \033[91mKO\033[0m ]")
+        new_launch_gdb(saved_list)
+
+
+def file_to_int_list(file_name):
+    list = []
+    with open(file_name, 'r') as f:
+        for num in f.read().split():
+            list.append(int(num))
+    return list
+
+
+def file_to_string(file_name):
+    with open(file_name, 'r') as f:
+        return f.read().strip()
+
+
+def automatic(table):
+    x = 1000
+    if (len(table) == 3):
+        x = int(table[2])
+    os.popen(f"./Generator {x}")
+    os.wait()
+    print(f"Generation done\nTesting with {x} numbers")
+    timer = t.time()
+    lines = os.popen(
+        "./push_swap $(cat numbers.txt) > instructions.txt").readlines()
+    os.wait()
+    timer = t.time() - timer
+    print(f"Push_swap took {round(timer, 4)} seconds to sort {x} numbers")
+    number_list = file_to_int_list("numbers.txt")
+    instructions = file_to_string("instructions.txt")
+    execute_instruction(instructions, number_list)
+    exit(0)
+
+
+if __name__ == "__main__":
+    if (len(sys.argv) >= 2 and sys.argv[1] == "auto"):
+        automatic(sys.argv)
+    if (len(sys.argv) >= 2 and sys.argv[1] == "serial"):
+        difficulty = 1
+        if (len(sys.argv) == 3):
+            difficulty = int(sys.argv[2])
+            if (difficulty < 1 or difficulty > 10):
+                print("Difficulty must be between 1 and 10")
+                sys.exit(1)
+        num_list = [5, 10, 25, 50, 100]
+        print(f" Doing 5 tests for difficulty {difficulty}")
+        for num in num_list:
+            os.popen(f"./Generator {num * difficulty}")
+            os.wait()
+            print(f"Generation done\nTesting with {num * difficulty} numbers")
+            timer = t.time()
+            os.popen("./push_swap $(cat numbers.txt) > instructions.txt")
+            os.wait()
+            timer = t.time() - timer
+            print(
+                f"Push_swap took {round(timer, 4)} seconds to sort {num * difficulty} numbers")
+            number_list = file_to_int_list("numbers.txt")
+            instructions = file_to_string("instructions.txt")
+            execute_instruction(instructions, number_list)
+        exit(0)
+    if len(sys.argv) != 3:
+        print(
+            "Usage: ./push_swap.py [list of numbers - file] [list of instructions - file]")
+        exit(1)
+    number_list = file_to_int_list(sys.argv[1])
+    instructions = file_to_string(sys.argv[2])
+    if os.path.exists("trace.txt"):
+        os.remove("trace.txt")
+    execute_instruction(instructions, number_list)
